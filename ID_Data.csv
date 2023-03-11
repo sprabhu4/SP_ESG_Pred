@@ -1,0 +1,1884 @@
+,RIC,ISIN,Name,Sector,Country
+0,INTU.O,US4612021034,Intuit Inc,Technology,USA
+1,HL,US4227041062,Hecla Mining Co,Basic Materials,USA
+2,GILG.DE,DE0005878003,DMG Mori AG,Industrials,Germany
+3,APH,US0320951017,Amphenol Corp,Technology,USA
+4,SGH.O,KYG8232Y1017,Smart Global Holdings Inc,Technology,USA
+5,PMAG.S,AT0000KTMI02,PIERER Mobility AG,Consumer Cyclicals,Austria
+6,RTX,US75513E1010,Raytheon Technologies Corp,Industrials,USA
+7,SOLARb.CO,DK0010274844,Solar A/S,Industrials,Denmark
+8,OBEL.BR,BE0003735496,Orange Belgium SA,Technology,Belgium
+9,WIZZ.L,JE00BN574F90,Wizz Air Holdings PLC,Industrials,Switzerland
+10,RYN,US7549071030,Rayonier Inc,Real Estate,USA
+11,UPRO.MM,RU000A0JNGA5,Yunipro PAO,Utilities,Russia
+12,CPT,US1331311027,Camden Property Trust,Real Estate,USA
+13,STCK.L,GB00BF5SDZ96,Stock Spirits Group PLC,Consumer Non-Cyclicals,United Kingdom
+14,TWNK.O,US44109J1060,Hostess Brands Inc,Consumer Non-Cyclicals,USA
+15,DSV.CO,DK0060079531,Dsv A/S,Industrials,Denmark
+16,DSMN.AS,NL0000009827,Koninklijke DSM NV,Basic Materials,Netherlands
+17,CLNE.O,US1844991018,Clean Energy Fuels Corp,Energy,USA
+18,TUIGn.DE,DE000TUAG000,Tui AG,Consumer Cyclicals,Germany
+19,ROSNP.BX,ROSNPPACNOR9,OMV Petrom SA,Energy,Romania
+20,LENV.VI,AT0000644505,Lenzing AG,Basic Materials,Austria
+21,INFO.K,BMG475671050,IHS Markit Ltd,Industrials,United Kingdom
+22,B4B.DE,DE000BFB0019,Metro AG,Consumer Non-Cyclicals,Germany
+23,PHP.L,GB00BYRJ5J14,Primary Health Properties PLC,Real Estate,United Kingdom
+24,HSW.L,GB00BYYN4225,Hostelworld Group PLC,Technology,Ireland
+25,ENGP.WA,PLENERG00022,Energa SA,Utilities,Poland
+26,GPOR.L,GB00BF5H9P87,Great Portland Estates PLC,Real Estate,United Kingdom
+27,SAA.L,GB00B01F7T14,M&C Saatchi PLC,Consumer Cyclicals,United Kingdom
+28,EMR,US2910111044,Emerson Electric Co,Industrials,USA
+29,AMT,US03027X1000,American Tower Corp,Real Estate,USA
+30,YNDX.O,NL0009805522,Yandex NV,Technology,Netherlands
+31,DOTD.L,GB00B3W40C23,dotDigital Group PLC,Technology,United Kingdom
+32,DKS,US2533931026,DICK'S Sporting Goods Inc,Consumer Cyclicals,USA
+33,DCO,US2641471097,Ducommun Inc,Industrials,USA
+34,SQZ.L,GB00B0CY5V57,Serica Energy PLC,Energy,United Kingdom
+35,NOS.LS,PTZON0AM0006,NOS SGPS SA,Technology,Portugal
+36,BHPB.L,GB00BH0P3Z91,BHP Group PLC,Basic Materials,United Kingdom
+37,NOEJ.DE,DE000A1H8BV3,Norma Group SE,Industrials,Germany
+38,JCDX.PA,FR0000077919,JCDecaux SA,Consumer Cyclicals,France
+39,TRMK.MM,RU000A0B6NK6,Trubnaya Metallurgicheskaya Kompaniya PAO,Basic Materials,Russia
+40,INHG.DE,DE0006200108,Indus Holding AG,Consumer Non-Cyclicals,Germany
+41,EPED.PA,FR0000121147,Faurecia SE,Consumer Cyclicals,France
+42,SVT.L,GB00B1FH8J72,Severn Trent PLC,Utilities,United Kingdom
+43,GME,US36467W1099,GameStop Corp,Consumer Cyclicals,USA
+44,CPG.L,GB00BD6K4575,Compass Group PLC,Consumer Cyclicals,United Kingdom
+45,HOCM.L,GB00B1FW5029,Hochschild Mining PLC,Basic Materials,United Kingdom
+46,OEC,LU1092234845,Orion Engineered Carbons SA,Basic Materials,Luxembourg
+47,DCC.L,IE0002424939,DCC PLC,Consumer Non-Cyclicals,Ireland
+48,WLN.PA,FR0011981968,Worldline SA,Technology,France
+49,KBH,US48666K1097,KB Home,Consumer Cyclicals,USA
+50,CSX.O,US1264081035,CSX Corp,Industrials,USA
+51,CCH.L,CH0198251305,Coca Cola HBC AG,Consumer Non-Cyclicals,Switzerland
+52,IFF,US4595061015,International Flavors & Fragrances Inc,Consumer Non-Cyclicals,USA
+53,HFD.L,GB00B012TP20,Halfords Group PLC,Consumer Cyclicals,United Kingdom
+54,CARRC.L,GB00BRK01058,Carr's Group PLC,Consumer Non-Cyclicals,United Kingdom
+55,RECI.MI,IT0003828271,Recordati Industria Chimica e Farmaceutica SpA,Healthcare,Italy
+56,POLYP.L,JE00B6T5S470,Polymetal International PLC,Basic Materials,Cyprus
+57,SVS.L,GB00B135BJ46,Savills PLC,Real Estate,United Kingdom
+58,SWMA.ST,SE0015812219,Swedish Match AB,Consumer Non-Cyclicals,Sweden
+59,FMEG.DE,DE0005785802,Fresenius Medical Care AG & Co KGaA,Healthcare,Germany
+60,NOMD.K,VGG6564A1057,Nomad Foods Ltd,Consumer Non-Cyclicals,United Kingdom
+61,HFGG.DE,DE000A161408,Hellofresh SE,Consumer Non-Cyclicals,Germany
+62,ISS.CO,DK0060542181,Iss A/S,Industrials,Denmark
+63,VON.AS,BMG9349W1038,VEON Ltd,Technology,Netherlands
+64,DIAS.MI,IT0003492391,DiaSorin SpA,Healthcare,Italy
+65,BXP,US1011211018,Boston Properties Inc,Real Estate,USA
+66,FDX,US31428X1063,FedEx Corp,Industrials,USA
+67,SO,US8425871071,Southern Co,Utilities,USA
+68,TNL,US8941641024,Travel + Leisure Co,Consumer Cyclicals,USA
+69,ETSY.O,US29786A1060,ETSY Inc,Consumer Cyclicals,USA
+70,TPK.L,GB00BK9RKT01,Travis Perkins PLC,Consumer Cyclicals,United Kingdom
+71,RBC,US7587501039,Regal Rexnord Corp,Industrials,USA
+72,MMM,US88579Y1010,3M Co,Consumer Non-Cyclicals,USA
+73,AMA.MC,ES0109067019,Amadeus IT Group SA,Technology,Spain
+74,ADLG.DE,DE0005008007,Adler Real Estate AG,Real Estate,Germany
+75,SYNTS.L,GB0009887422,Synthomer PLC,Basic Materials,United Kingdom
+76,AOXG.DE,DE000A0LD2U1,alstria office REIT AG,Real Estate,Germany
+77,SFQ.DE,DE000SAFH001,Saf-Holland Se,Consumer Cyclicals,Germany
+78,FLR,US3434121022,Fluor Corp,Industrials,USA
+79,BVI.PA,FR0006174348,Bureau Veritas SA,Industrials,France
+80,COST.O,US22160K1051,Costco Wholesale Corp,Consumer Cyclicals,USA
+81,ACX.MC,ES0132105018,Acerinox SA,Basic Materials,Spain
+82,KIM,US49446R1095,Kimco Realty Corp,Real Estate,USA
+83,ADBE.O,US00724F1012,Adobe Inc,Technology,USA
+84,ACCP.PA,FR0000120404,Accor SA,Consumer Cyclicals,France
+85,OUT1V.HE,FI0009002422,Outokumpu Oyj,Basic Materials,Finland
+86,AMN,US0017441017,AMN Healthcare Services Inc,Healthcare,USA
+87,WIL.L,GB0009692319,Wilmington PLC,Consumer Cyclicals,United Kingdom
+88,VOLVb.ST,SE0000115446,Volvo AB,Industrials,Sweden
+89,PCG,US69331C1080,PG&E Corp,Utilities,USA
+90,SHI.L,GB0008025412,SIG PLC,Consumer Cyclicals,United Kingdom
+91,IGT,GB00BVG7F061,International Game Technology PLC,Consumer Cyclicals,United Kingdom
+92,OREP.PA,FR0000120321,L'Oreal SA,Consumer Non-Cyclicals,France
+93,LVS,US5178341070,Las Vegas Sands Corp,Consumer Cyclicals,USA
+94,ESSITYb.ST,SE0009922164,Essity AB (publ),Consumer Non-Cyclicals,Sweden
+95,VALMT.HE,FI4000074984,Valmet Oyj,Industrials,Finland
+96,TIFS.L,GB00BYQB9V88,TI Fluid Systems PLC,Consumer Cyclicals,United Kingdom
+97,FLUI.MC,ES0137650018,Fluidra SA,Consumer Cyclicals,Spain
+98,WLSNc.AS,NL0000395903,Wolters Kluwer NV,Industrials,Netherlands
+99,APAM.AS,LU0569974404,Aperam SA,Basic Materials,Luxembourg
+100,FSKRS.HE,FI0009000400,Fiskars Oyj Abp,Consumer Cyclicals,Finland
+101,WY,US9621661043,Weyerhaeuser Co,Real Estate,USA
+102,SLRS.MC,ES0165386014,Solaria Energia y Medio Ambiente SA,Utilities,Spain
+103,MULTI.OL,NO0010734338,Multiconsult ASA,Industrials,Norway
+104,PSA,US74460D1090,Public Storage,Real Estate,USA
+105,BUFAB.ST,SE0005677135,Bufab AB (publ),Industrials,Sweden
+106,SCSS.L,GB00BRF0TJ56,SCS Group PLC,Consumer Cyclicals,United Kingdom
+107,PPL,US69351T1060,PPL Corp,Utilities,USA
+108,NWL.O,US6512291062,Newell Brands Inc,Consumer Cyclicals,USA
+109,IMFI.VI,AT0000A21KS2,Immofinanz AG,Real Estate,Austria
+110,TATN.MM,RU0009033591,Tatneft' PAO,Energy,Russia
+111,FE,US3379321074,FirstEnergy Corp,Utilities,USA
+112,ETN,IE00B8KQN827,Eaton Corporation PLC,Industrials,Ireland
+113,RHIM.L,NL0012650360,RHI Magnesita NV,Basic Materials,Austria
+114,ENRU.MM,RU000A0F5UN3,Enel Rossiya PAO,Utilities,Russia
+115,CFEB.BR,BE0003883031,Compagnie d'entreprises CFE SA,Industrials,Belgium
+116,SOLB.BR,BE0003470755,Solvay SA,Basic Materials,Belgium
+117,XEC,US1717981013,Cimarex Energy Co,Energy,USA
+118,SATG.DE,DE0007165607,Sartorius AG,Healthcare,Germany
+119,OMVV.VI,AT0000743059,OMV AG,Energy,Austria
+120,ABI.BR,BE0974293251,Anheuser Busch Inbev SA,Consumer Non-Cyclicals,Belgium
+121,CIEP.WA,PLCIECH00018,Ciech SA,Basic Materials,Poland
+122,EDP.LS,PTEDP0AM0009,EDP Energias de Portugal SA,Utilities,Portugal
+123,TIK1V.HE,FI4000008719,Tikkurila Oyj,Basic Materials,Finland
+124,BC8G.DE,DE0005158703,Bechtle AG,Technology,Germany
+125,WBSV.VI,AT0000831706,Wienerberger AG,Basic Materials,Austria
+126,QRVO.O,US74736K1016,Qorvo Inc,Technology,USA
+127,WEC,US92939U1060,WEC Energy Group Inc,Utilities,USA
+128,QQ.L,GB00B0WMWD03,Qinetiq Group PLC,Industrials,United Kingdom
+129,HBRN.I,IE00BGHQ1986,Hibernia REIT PLC,Real Estate,Ireland
+130,CPS,US21676P1030,Cooper-Standard Holdings Inc,Consumer Cyclicals,USA
+131,TUP,US8998961044,Tupperware Brands Corp,Consumer Cyclicals,USA
+132,MOWI.OL,NO0003054108,Mowi ASA,Consumer Non-Cyclicals,Norway
+133,SAPG.DE,DE0007164600,SAP SE,Technology,Germany
+134,RCH.L,GB0009039941,Reach PLC,Consumer Cyclicals,United Kingdom
+135,GILD.O,US3755581036,Gilead Sciences Inc,Healthcare,USA
+136,RACE.MI,NL0011585146,Ferrari NV,Consumer Cyclicals,Italy
+137,FEOIb.ST,CH0242214887,Fenix Outdoor International AG,Consumer Cyclicals,Switzerland
+138,DOM.L,GB00BYN59130,Domino's Pizza Group PLC,Consumer Cyclicals,United Kingdom
+139,FIA1S.HE,FI0009003230,Finnair Oyj,Industrials,Finland
+140,SAF.PA,FR0000073272,Safran SA,Industrials,France
+141,NPTN.K,US64051T1007,NeoPhotonics Corp,Technology,USA
+142,HRA.MI,IT0001250932,Hera SpA,Utilities,Italy
+143,VOSG.DE,DE0007667107,Vossloh AG,Industrials,Germany
+144,ABT,US0028241000,Abbott Laboratories,Healthcare,USA
+145,PDL.L,BMG702781417,Petra Diamonds Ltd,Basic Materials,United Kingdom
+146,CDAF.PA,FR0000053324,Compagnie des Alpes SA,Consumer Cyclicals,France
+147,WTRG.K,US29670G1022,Essential Utilities Inc,Utilities,USA
+148,UVV,US9134561094,Universal Corp,Consumer Non-Cyclicals,USA
+149,LNT.O,US0188021085,Alliant Energy Corp,Utilities,USA
+150,EVKn.DE,DE000EVNK013,Evonik Industries AG,Basic Materials,Germany
+151,ERG.MI,IT0001157020,ERG SpA,Utilities,Italy
+152,IFCN.S,CH0011029946,Inficon Holding AG,Industrials,Switzerland
+153,BALCO.ST,SE0010323998,Balco Group AB,Industrials,Sweden
+154,JBL,US4663131039,Jabil Inc,Technology,USA
+155,ASOS.L,GB0030927254,ASOS PLC,Consumer Cyclicals,United Kingdom
+156,MONY.L,GB00B1ZBKY84,Moneysupermarket.Com Group PLC,Technology,United Kingdom
+157,ADNT.K,IE00BD845X29,Adient PLC,Consumer Cyclicals,Ireland
+158,BAKKA.OL,FO0000000179,P/F Bakkafrost,Consumer Non-Cyclicals,Faroe Islands
+159,ENAV.MI,IT0005176406,Enav SpA,Industrials,Italy
+160,JNJ,US4781601046,Johnson & Johnson,Healthcare,USA
+161,MPC,US56585A1025,Marathon Petroleum Corp,Energy,USA
+162,JENGn.DE,DE000A2NB601,Jenoptik AG,Industrials,Germany
+163,MCK,US58155Q1031,Mckesson Corp,Consumer Non-Cyclicals,USA
+164,CAKE.O,US1630721017,Cheesecake Factory Inc,Consumer Cyclicals,USA
+165,ARISE.ST,SE0002095604,Arise AB,Utilities,Sweden
+166,FILA.MI,IT0004967292,FILA Fabbrica Italiana Lapis ed Affini SpA,Industrials,Italy
+167,RNWH.L,GB0005359004,Renew Holdings PLC,Industrials,United Kingdom
+168,COSG.L,GB00B64NSP76,Costain Group PLC,Industrials,United Kingdom
+169,FSS,US3138551086,Federal Signal Corp,Industrials,USA
+170,WEHA.AS,NL0000289213,Wereldhave NV,Real Estate,Netherlands
+171,BEAN.S,CH1101098163,Belimo Holding AG,Industrials,Switzerland
+172,PSPN.S,CH0018294154,PSP Swiss Property AG,Real Estate,Switzerland
+173,FOUG.PA,FR0000130452,Eiffage SA,Industrials,France
+174,CLN.S,CH0012142631,Clariant AG,Basic Materials,Switzerland
+175,CL,US1941621039,Colgate-Palmolive Co,Consumer Non-Cyclicals,USA
+176,DEMANT.CO,DK0060738599,Demant A/S,Healthcare,Denmark
+177,WMT,US9311421039,Walmart Inc,Consumer Non-Cyclicals,USA
+178,SMG,US8101861065,Scotts Miracle-Gro Co,Basic Materials,USA
+179,MBTN.S,CH0108503795,Meyer Burger Technology AG,Technology,Switzerland
+180,AOO.BR,BE0003851681,Aedifica NV,Real Estate,Belgium
+181,LTEN.PA,FR0000071946,Alten SA,Technology,France
+182,CCMP.O,US12571T1007,CMC Materials Inc,Technology,USA
+183,EQNR.OL,NO0010096985,Equinor ASA,Energy,Norway
+184,UMI.BR,BE0974320526,Umicore SA,Basic Materials,Belgium
+185,RSW.L,GB0007323586,Renishaw PLC,Industrials,United Kingdom
+186,GTLS.K,US16115Q3083,Chart Industries Inc,Industrials,USA
+187,GPC,US3724601055,Genuine Parts Co,Consumer Cyclicals,USA
+188,IPGP.O,US44980X1090,IPG Photonics Corp,Technology,USA
+189,J,US4698141078,Jacobs Engineering Group Inc,Industrials,USA
+190,RMV.L,GB00BGDT3G23,Rightmove PLC,Technology,United Kingdom
+191,ENQ.L,GB00B635TG28,EnQuest PLC,Energy,United Kingdom
+192,POG.L,GB0031544546,Petropavlovsk PLC,Basic Materials,United Kingdom
+193,STORYb.ST,SE0007439443,Storytel AB (publ),Consumer Cyclicals,Sweden
+194,ALSS.LS,PTALT0AE0002,Altri SGPS SA,Basic Materials,Portugal
+195,CEMI.MI,NL0013995087,Cementir Holding NV,Basic Materials,Italy
+196,OGN.I,IE00B1WV4493,Origin Enterprises PLC,Consumer Non-Cyclicals,Ireland
+197,NPO,US29355X1072,EnPro Industries Inc,Industrials,USA
+198,LATOb.ST,SE0010100958,Investment AB Latour,Consumer Non-Cyclicals,Sweden
+199,DNO.OL,NO0003921009,Dno ASA,Energy,Norway
+200,TSN,US9024941034,Tyson Foods Inc,Consumer Non-Cyclicals,USA
+201,EXPD.O,US3021301094,Expeditors International of Washington Inc,Industrials,USA
+202,IQV,US46266C1053,IQVIA Holdings Inc,Healthcare,USA
+203,LVMH.PA,FR0000121014,LVMH Moet Hennessy Louis Vuitton SE,Consumer Cyclicals,France
+204,ZTS,US98978V1035,Zoetis Inc,Healthcare,USA
+205,BOL.ST,SE0015811559,Boliden AB,Basic Materials,Sweden
+206,ROCKb.CO,DK0010219153,Rockwool International A/S,Consumer Cyclicals,Denmark
+207,SWK,US8545021011,Stanley Black & Decker Inc,Industrials,USA
+208,UGI,US9026811052,UGI Corp,Utilities,USA
+209,SHB.L,GB0007990962,Shaftesbury PLC,Real Estate,United Kingdom
+210,FAN.L,GB00BN3ZZ526,Volution Group PLC,Industrials,United Kingdom
+211,CCL,PA1436583006,Carnival Corp,Consumer Cyclicals,USA
+212,BFSA.DE,LU1704650164,Befesa SA,Industrials,Luxembourg
+213,SEE,US81211K1007,Sealed Air Corp,Basic Materials,USA
+214,GIS,US3703341046,General Mills Inc,Consumer Non-Cyclicals,USA
+215,STRV.VI,AT000000STR1,STRABAG SE,Industrials,Austria
+216,VAIAS.HE,FI0009900682,Vaisala Oyj,Industrials,Finland
+217,ECR.MC,ES0125140A14,Ercros SA,Basic Materials,Spain
+218,BWY.L,GB0000904986,Bellway PLC,Consumer Cyclicals,United Kingdom
+219,MWA,US6247581084,Mueller Water Products Inc,Industrials,USA
+220,JMT.LS,PTJMT0AE0001,Jeronimo Martins SGPS SA,Consumer Non-Cyclicals,Portugal
+221,COL.MC,ES0139140174,Inmobiliaria Colonial SOCIMI SA,Real Estate,Spain
+222,LEA,US5218652049,Lear Corp,Consumer Cyclicals,USA
+223,TELIA.ST,SE0000667925,Telia Company AB,Technology,Sweden
+224,THYAO.IS,TRATHYAO91M5,Turk Hava Yollari AO,Industrials,Turkey
+225,AKSOA.OL,NO0010716582,Aker Solutions ASA,Energy,Norway
+226,RYA.I,IE00BYTBXV33,Ryanair Holdings PLC,Industrials,Ireland
+227,BO.CO,DK0010218429,Bang & Olufsen A/S,Technology,Denmark
+228,KFY,US5006432000,Korn Ferry,Industrials,USA
+229,MWDP.PA,FR0000121204,Wendel SE,Industrials,France
+230,DAR,US2372661015,Darling Ingredients Inc,Consumer Non-Cyclicals,USA
+231,FDP,KYG367381053,Fresh Del Monte Produce Inc,Consumer Non-Cyclicals,USA
+232,UN01.DE,DE000UNSE018,Uniper SE,Utilities,Germany
+233,WNC,US9295661071,Wabash National Corp,Industrials,USA
+234,SITC.K,US82981J1097,Site Centers Corp,Real Estate,USA
+235,ORAN.PA,FR0000133308,Orange SA,Technology,France
+236,IR,US45687V1061,Ingersoll Rand Inc,Industrials,USA
+237,SHW,US8243481061,Sherwin-Williams Co,Basic Materials,USA
+238,BAES.L,GB0002634946,BAE Systems PLC,Industrials,United Kingdom
+239,MATX.K,US57686G1058,Matson Inc,Industrials,USA
+240,YSO.LS,PTSON0AM0001,Sonae SGPS SA,Consumer Non-Cyclicals,Portugal
+241,BLL,US0584981064,Ball Corp,Basic Materials,USA
+242,DAL,US2473617023,Delta Air Lines Inc,Industrials,USA
+243,BOSN.AS,NL0000852580,Koninklijke Boskalis Westminster NV,Industrials,Netherlands
+244,CUZ,US2227955026,Cousins Properties Inc,Real Estate,USA
+245,TEP.L,GB0008794710,Telecom Plus PLC,Utilities,United Kingdom
+246,PPC.O,US72147K1088,Pilgrims Pride Corp,Consumer Non-Cyclicals,USA
+247,GNC.L,IE0003864109,Greencore Group PLC,Consumer Non-Cyclicals,Ireland
+248,KPN.AS,NL0000009082,Koninklijke KPN NV,Technology,Netherlands
+249,NEXA.K,LU1701428291,Nexa Resources SA,Basic Materials,Luxembourg
+250,SRC.L,GB00BYX5K988,Sigmaroc PLC,Basic Materials,United Kingdom
+251,HEPr.AT,GRS298343005,Hellenic Petroleum SA,Energy,Greece
+252,CAT,US1491231015,Caterpillar Inc,Industrials,USA
+253,INDV.L,GB00BRS65X63,Indivior PLC,Healthcare,United Kingdom
+254,SJI,US8385181081,South Jersey Industries Inc,Utilities,USA
+255,GM,US37045V1008,General Motors Co,Consumer Cyclicals,USA
+256,ROK,US7739031091,Rockwell Automation Inc,Industrials,USA
+257,FKR.MI,IT0003198790,Falck Renewables SpA,Utilities,Italy
+258,HPOLb.ST,SE0007074281,Hexpol AB,Basic Materials,Sweden
+259,YIT.HE,FI0009800643,Yit Oyj,Industrials,Finland
+260,ASCN.S,CH0011339204,Ascom Holding AG,Technology,Switzerland
+261,GENL.L,JE00B55Q3P39,Genel Energy PLC,Energy,United Kingdom
+262,BEFB.BR,BE0003678894,Befimmo SA,Real Estate,Belgium
+263,TOKMAN.HE,FI4000197934,Tokmanni Group Corp,Consumer Cyclicals,Finland
+264,XXL.OL,NO0010716863,XXL ASA,Consumer Cyclicals,Norway
+265,CSPC.L,GB00BYPHNG03,Countryside Properties PLC,Consumer Cyclicals,United Kingdom
+266,RPS.L,GB0007594764,RPS Group PLC,Industrials,United Kingdom
+267,SCL,US8585861003,Stepan Co,Basic Materials,USA
+268,ITPG.MI,IT0001078911,Interpump Group SpA,Industrials,Italy
+269,DIGS.L,GB00B8460Z43,GCP Student Living PLC,Real Estate,United Kingdom
+270,CINE.L,GB00B15FWH70,Cineworld Group PLC,Consumer Cyclicals,United Kingdom
+271,HOTG.DE,DE0006070006,Hochtief AG,Industrials,Germany
+272,D,US25746U1097,Dominion Energy Inc,Utilities,USA
+273,EBRO.MC,ES0112501012,Ebro Foods SA,Consumer Non-Cyclicals,Spain
+274,CCI,US22822V1017,Crown Castle International Corp,Real Estate,USA
+275,PEB,US70509V1008,Pebblebrook Hotel Trust,Real Estate,USA
+276,SCHN.O,US8068821060,Schnitzer Steel Industries Inc,Basic Materials,USA
+277,CAPP.PA,FR0000125338,Capgemini SE,Technology,France
+278,UAL.O,US9100471096,United Airlines Holdings Inc,Industrials,USA
+279,1913.HK,IT0003874101,Prada SpA,Consumer Cyclicals,Italy
+280,PEG,US7445731067,Public Service Enterprise Group Inc,Utilities,USA
+281,VEC.L,GB00BKM2MW97,Vectura Group PLC,Healthcare,United Kingdom
+282,HABAn.DE,DE000A3H2333,Hamborner REIT AG,Real Estate,Germany
+283,AR,US03674X1063,Antero Resources Corp,Energy,USA
+284,MAUP.PA,FR0000051070,Etablissements Maurel et Prom SA,Energy,France
+285,EONGn.DE,DE000ENAG999,E.ON SE,Utilities,Germany
+286,ATRLJb.ST,SE0000191827,Atrium Ljungberg AB,Real Estate,Sweden
+287,ED4.DE,CH0303692047,EDAG Engineering Group AG,Consumer Cyclicals,Switzerland
+288,FFIV.O,US3156161024,F5 Networks Inc,Technology,USA
+289,HILS.L,GB0004270301,Hill & Smith Holdings PLC,Basic Materials,United Kingdom
+290,BOOH.L,JE00BG6L7297,Boohoo Group PLC,Consumer Cyclicals,United Kingdom
+291,TPIC.O,US87266J1043,TPI Composites Inc,Energy,USA
+292,QDT.PA,FR0000120560,Quadient SA,Technology,France
+293,SON,US8354951027,Sonoco Products Co,Basic Materials,USA
+294,BETSb.ST,SE0015672282,Betsson AB,Consumer Cyclicals,Sweden
+295,OTB.L,GB00BYM1K758,On The Beach Group PLC,Consumer Cyclicals,United Kingdom
+296,BAVA.CO,DK0015998017,Bavarian Nordic A/S,Healthcare,Denmark
+297,UPM.HE,FI0009005987,UPM-Kymmene Oyj,Basic Materials,Finland
+298,AGR,US05351W1036,Avangrid Inc,Utilities,USA
+299,UTL,US9132591077,Unitil Corp,Utilities,USA
+300,PIRC.MI,IT0005278236,Pirelli & C SpA,Consumer Cyclicals,Italy
+301,AEE,US0236081024,Ameren Corp,Utilities,USA
+302,SAFE.L,GB00B1N7Z094,Safestore Holdings PLC,Real Estate,United Kingdom
+303,FRAS.L,GB00B1QH8P22,Frasers Group PLC,Consumer Cyclicals,United Kingdom
+304,KELYA.O,US4881522084,Kelly Services Inc,Industrials,USA
+305,JBT,US4778391049,John Bean Technologies Corp,Industrials,USA
+306,BASFn.DE,DE000BASF111,BASF SE,Basic Materials,Germany
+307,AWK,US0304201033,American Water Works Company Inc,Utilities,USA
+308,FORTUM.HE,FI0009007132,Fortum Oyj,Utilities,Finland
+309,VILM.PA,FR0000052516,Vilmorin & Cie SA,Consumer Non-Cyclicals,France
+310,RAP1V.HE,FI0009007355,Rapala VMC Corp,Consumer Cyclicals,Finland
+311,FELE.O,US3535141028,Franklin Electric Co Inc,Industrials,USA
+312,NXPI.O,NL0009538784,NXP Semiconductors NV,Technology,Netherlands
+313,SGC.L,GB00B6YTLS95,Stagecoach Group PLC,Industrials,United Kingdom
+314,IOSP.O,US45768S1050,Innospec Inc,Basic Materials,USA
+315,VIK1V.HE,FI0009005250,Viking Line Abp,Consumer Cyclicals,Finland
+316,PLXS.O,US7291321005,Plexus Corp,Technology,USA
+317,VIAV.O,US9255501051,Viavi Solutions Inc,Technology,USA
+318,SHO,US8678921011,Sunstone Hotel Investors Inc,Real Estate,USA
+319,ROG.S,CH0012032048,Roche Holding AG,Healthcare,Switzerland
+320,FABG.ST,SE0011166974,Fabege AB,Real Estate,Sweden
+321,SECUb.ST,SE0000163594,Securitas AB,Industrials,Sweden
+322,BONAVb.ST,SE0008091581,Bonava AB (publ),Real Estate,Sweden
+323,VMI,US9202531011,Valmont Industries Inc,Industrials,USA
+324,JLL,US48020Q1076,Jones Lang LaSalle Inc,Real Estate,USA
+325,HRL,US4404521001,Hormel Foods Corp,Consumer Non-Cyclicals,USA
+326,BOUY.PA,FR0000120503,Bouygues SA,Industrials,France
+327,WTB.L,GB00B1KJJ408,Whitbread PLC,Consumer Cyclicals,United Kingdom
+328,KSS,US5002551043,Kohls Corp,Consumer Cyclicals,USA
+329,CWCG.DE,DE0005403901,Cewe Stiftung & Co KGaA,Industrials,Germany
+330,FACC.VI,AT00000FACC2,FACC AG,Industrials,Austria
+331,MRCY.O,US5893781089,Mercury Systems Inc,Industrials,USA
+332,TCFP.PA,FR0000121329,Thales SA,Industrials,France
+333,PKG,US6951561090,Packaging Corp of America,Basic Materials,USA
+334,SMSS.L,GB00B4X1RC86,Smart Metering Systems PLC,Technology,United Kingdom
+335,KTCG.VI,AT000KAPSCH9,Kapsch Trafficcom AG,Technology,Austria
+336,GENG.L,GB00BKRC5K31,Genuit Group PLC,Consumer Cyclicals,United Kingdom
+337,CAST.ST,SE0000379190,Castellum AB,Real Estate,Sweden
+338,VITR.ST,SE0011205202,Vitrolife AB,Healthcare,Sweden
+339,OI,US67098H1041,O-I Glass Inc,Basic Materials,USA
+340,ITW,US4523081093,Illinois Tool Works Inc,Consumer Non-Cyclicals,USA
+341,CVA,US22282E1029,Covanta Holding Corp,Industrials,USA
+342,CLH.CN,EST01PA00013,CEMEX Latam Holdings SA,Basic Materials,Spain
+343,HHDC.CO,DK0015202451,H+H International A/S,Basic Materials,Denmark
+344,RCOP.PA,FR0000130395,Remy Cointreau SA,Consumer Non-Cyclicals,France
+345,IRAO.MM,RU000A0JPNM1,Inter RAO YEES PAO,Utilities,Russia
+346,STUS.L,GB00B8B4R053,Studio Retail Group PLC,Consumer Cyclicals,United Kingdom
+347,ATEA.OL,NO0004822503,Atea ASA,Technology,Norway
+348,CNE.L,GB00BN0SMB92,Cairn Energy PLC,Energy,United Kingdom
+349,SLB,AN8068571086,Schlumberger NV,Energy,USA
+350,IDR.MC,ES0118594417,Indra Sistemas SA,Technology,Spain
+351,HOLMb.ST,SE0011090018,Holmen AB,Basic Materials,Sweden
+352,BELE.ST,SE0000671711,Beijer Electronics Group AB,Technology,Sweden
+353,REVG.K,US7495271071,REV Group Inc,Industrials,USA
+354,NUE,US6703461052,Nucor Corp,Basic Materials,USA
+355,KODK.K,US2774614067,Eastman Kodak Co,Technology,USA
+356,BZU.MI,IT0001347308,Buzzi Unicem SpA,Basic Materials,Italy
+357,RAND.AS,NL0000379121,Randstad NV,Industrials,Netherlands
+358,ALV,US0528001094,Autoliv Inc,Consumer Cyclicals,Sweden
+359,BC,US1170431092,Brunswick Corp,Consumer Cyclicals,USA
+360,SFSN.S,CH0239229302,SFS Group AG,Industrials,Switzerland
+361,PZC.L,GB00B19Z1432,PZ Cussons PLC,Consumer Non-Cyclicals,United Kingdom
+362,BKD,US1124631045,Brookdale Senior Living Inc,Healthcare,USA
+363,PHMR.MC,ES0169501022,Pharma Mar SA,Healthcare,Spain
+364,GRI.L,GB00B04V1276,Grainger PLC,Real Estate,United Kingdom
+365,IG.MI,IT0005211237,Italgas SpA,Utilities,Italy
+366,OFC,US22002T1088,Corporate Office Properties Trust,Real Estate,USA
+367,RTO.L,GB00B082RF11,Rentokil Initial PLC,Industrials,United Kingdom
+368,STEMS.L,GB00B0KM9T71,SThree PLC,Industrials,United Kingdom
+369,BTU,US7045511000,Peabody Energy Corp,Energy,USA
+370,PEP.O,US7134481081,PepsiCo Inc,Consumer Non-Cyclicals,USA
+371,EW,US28176E1082,Edwards Lifesciences Corp,Healthcare,USA
+372,APD,US0091581068,Air Products and Chemicals Inc,Basic Materials,USA
+373,TEF.MC,ES0178430E18,Telefonica SA,Technology,Spain
+374,LOOK.L,GB00B17MMZ46,Lookers PLC,Consumer Cyclicals,United Kingdom
+375,WACGn.DE,DE000WACK012,Wacker Neuson SE,Industrials,Germany
+376,HOLX.O,US4364401012,Hologic Inc,Healthcare,USA
+377,SPR,US8485741099,Spirit AeroSystems Holdings Inc,Industrials,USA
+378,SOIT.PA,FR0013227113,Soitec SA,Technology,France
+379,DUST.ST,SE0006625471,Dustin Group AB,Technology,Sweden
+380,LIGHT.AS,NL0011821392,Signify NV,Consumer Cyclicals,Netherlands
+381,CLF,US1858991011,Cleveland-Cliffs Inc,Basic Materials,USA
+382,MCM.MC,ES0164180012,Miquel Y Costas & Miquel SA,Basic Materials,Spain
+383,HUSQb.ST,SE0001662230,Husqvarna AB,Consumer Cyclicals,Sweden
+384,H,US4485791028,Hyatt Hotels Corp,Consumer Cyclicals,USA
+385,KRDMD.IS,TRAKRDMR91G7,Kardemir Karabuk Demir Celik Sanayi ve Ticaret AS,Basic Materials,Turkey
+386,WM,US94106L1098,Waste Management Inc,Industrials,USA
+387,AZN.L,GB0009895292,AstraZeneca PLC,Healthcare,United Kingdom
+388,SPMI.MI,IT0005252140,Saipem SpA,Energy,Italy
+389,ARCLK.IS,TRAARCLK91H5,Arcelik AS,Consumer Cyclicals,Turkey
+390,GLOB.K,LU0974299876,Globant SA,Technology,Luxembourg
+391,NGVT.K,US45688C1071,Ingevity Corp,Basic Materials,USA
+392,SAGAa.ST,SE0004635878,Sagax AB,Real Estate,Sweden
+393,VRSK.O,US92345Y1064,Verisk Analytics Inc,Technology,USA
+394,CARM.PA,FR0010828137,Carmila SA,Real Estate,France
+395,SKG.I,IE00B1RR8406,Smurfit Kappa Group PLC,Basic Materials,Ireland
+396,ALFAAL.L,GB00BDHXPG30,Alfa Financial Software Holdings PLC,Technology,United Kingdom
+397,ACM,US00766T1007,AECOM,Industrials,USA
+398,HRMS.PA,FR0000052292,Hermes International SCA,Consumer Cyclicals,France
+399,MGGT.L,GB0005758098,Meggitt PLC,Industrials,United Kingdom
+400,ENI.MI,IT0003132476,Eni SpA,Energy,Italy
+401,SUN.S,CH0038388911,Sulzer AG,Industrials,Switzerland
+402,RRC,US75281A1097,Range Resources Corp,Energy,USA
+403,PGN.WA,PLPGNIG00014,Polskie Gornictwo Naftowe i Gazownictwo SA,Energy,Poland
+404,MARR.MI,IT0003428445,Marr SpA,Consumer Non-Cyclicals,Italy
+405,TATGD.IS,TRATATKS91A5,Tat Gida Sanayi AS,Consumer Non-Cyclicals,Turkey
+406,YOU.L,GB00B1VQ6H25,YouGov PLC,Consumer Cyclicals,United Kingdom
+407,KBHL.CO,DK0010201102,Copenhagen Airports A/S,Industrials,Denmark
+408,HIW,US4312841087,Highwoods Properties Inc,Real Estate,USA
+409,DUEG.DE,DE0005565204,Duerr AG,Industrials,Germany
+410,IMTP.PA,FR0000120859,Imerys SA,Basic Materials,France
+411,BOWL.L,GB00BD0NVK62,Hollywood Bowl Group PLC,Consumer Cyclicals,United Kingdom
+412,THRM.O,US37253A1034,Gentherm Inc,Consumer Cyclicals,USA
+413,XOM,US30231G1022,Exxon Mobil Corp,Energy,USA
+414,MLXS.BR,BE0165385973,Melexis NV,Technology,Belgium
+415,ARNA.O,US0400476075,Arena Pharmaceuticals Inc,Healthcare,USA
+416,COTY.K,US2220702037,Coty Inc,Consumer Non-Cyclicals,USA
+417,SIM.CO,DK0060495240,Simcorp A/S,Technology,Denmark
+418,KWSG.DE,DE0007074007,KWS SAAT SE & Co KgaA,Consumer Non-Cyclicals,Germany
+419,AUTOA.L,GB00BVYVFW23,Auto Trader Group PLC,Technology,United Kingdom
+420,HOG,US4128221086,Harley-Davidson Inc,Consumer Cyclicals,USA
+421,AALB.AS,NL0000852564,Aalberts NV,Industrials,Netherlands
+422,SCHO.CO,DK0010253921,Schouw & Co A/S,Consumer Non-Cyclicals,Denmark
+423,EUAV.BR,BE0003816338,Euronav NV,Energy,Belgium
+424,0973.HK,LU0501835309,L'Occitane International SA,Consumer Non-Cyclicals,Luxembourg
+425,AVY,US0536111091,Avery Dennison Corp,Basic Materials,USA
+426,SBOE.VI,AT0000946652,Schoeller Bleckmann Oilfield Equipment AG,Energy,Austria
+427,HTG.L,GB0004478896,Hunting PLC,Energy,United Kingdom
+428,ICAA.ST,SE0000652216,ICA Gruppen AB,Consumer Non-Cyclicals,Sweden
+429,CVX,US1667641005,Chevron Corp,Energy,USA
+430,CAL.L,GB00BL6XZ716,Capital & Regional PLC,Real Estate,United Kingdom
+431,YAR.OL,NO0010208051,Yara International ASA,Basic Materials,Norway
+432,GALE.S,CH0360674466,Galenica AG,Consumer Non-Cyclicals,Switzerland
+433,TOD.MI,IT0003007728,Tod's SpA,Consumer Cyclicals,Italy
+434,IFXGn.DE,DE0006231004,Infineon Technologies AG,Technology,Germany
+435,AVON.L,GB0000667013,Avon Protection PLC,Industrials,United Kingdom
+436,VCTP.PA,FR0000031775,Vicat SA,Basic Materials,France
+437,EDRE.MC,LU1048328220,Edreams Odigeo SA,Consumer Cyclicals,Spain
+438,JBGS.K,US46590V1008,JBG SMITH Properties,Real Estate,USA
+439,PEAK.K,US42250P1030,Healthpeak Properties Inc,Real Estate,USA
+440,DUNI.ST,SE0000616716,Duni AB,Basic Materials,Sweden
+441,WLL,US9663875089,Whiting Petroleum Corp,Energy,USA
+442,ATKR.K,US0476491081,Atkore Inc,Industrials,USA
+443,LKOH.MM,RU0009024277,NK Lukoil PAO,Energy,Russia
+444,LHCG.O,US50187A1079,LHC Group Inc,Healthcare,USA
+445,FER.MC,ES0118900010,Ferrovial SA,Industrials,Spain
+446,RDSa.AS,GB00B03MLX29,Royal Dutch Shell PLC,Energy,Netherlands
+447,AYGAZ.IS,TRAAYGAZ91E0,Aygaz AS,Energy,Turkey
+448,KEYS.K,US49338L1035,Keysight Technologies Inc,Industrials,USA
+449,EUFI.PA,FR0014000MR3,Eurofins Scientific SE,Industrials,Luxembourg
+450,LOIM.PA,FR0000121964,Klepierre SA,Real Estate,France
+451,NZYMb.CO,DK0060336014,Novozymes A/S,Basic Materials,Denmark
+452,NOV,US62955J1034,Nov Inc,Energy,USA
+453,ANTO.L,GB0000456144,Antofagasta PLC,Basic Materials,United Kingdom
+454,PPG,US6935061076,PPG Industries Inc,Basic Materials,USA
+455,OXB.L,GB00BDFBVT43,Oxford BioMedica PLC,Healthcare,United Kingdom
+456,OGS,US68235P1084,ONE Gas Inc,Utilities,USA
+457,BBWI.K,US0708301041,Bath & Body Works Inc,Consumer Cyclicals,USA
+458,HEIG.DE,DE0006047004,HeidelbergCement AG,Basic Materials,Germany
+459,HWG.L,GB00BYZJ7G42,Harworth Group PLC,Real Estate,United Kingdom
+460,OSK,US6882392011,Oshkosh Corp,Industrials,USA
+461,NTGY.MC,ES0116870314,Naturgy Energy Group SA,Utilities,Spain
+462,HSII.O,US4228191023,Heidrick & Struggles International Inc,Industrials,USA
+463,TEL2b.ST,SE0005190238,Tele2 AB,Technology,Sweden
+464,GFRD.L,GB00BKY40Q38,Galliford Try Holdings PLC,Industrials,United Kingdom
+465,BAH,US0995021062,Booz Allen Hamilton Holding Corp,Technology,USA
+466,NOVOb.CO,DK0060534915,Novo Nordisk A/S,Healthcare,Denmark
+467,GLEN.L,JE00B4T3BW64,Glencore PLC,Basic Materials,Switzerland
+468,TUNE.L,GB00BSBMW716,Focusrite PLC,Technology,United Kingdom
+469,NEUP.WA,PLTRFRM00018,Neuca SA,Consumer Non-Cyclicals,Poland
+470,DNLM.L,GB00B1CKQ739,Dunelm Group PLC,Consumer Cyclicals,United Kingdom
+471,TPR,US8760301072,Tapestry Inc,Consumer Cyclicals,USA
+472,FHZN.S,CH0319416936,Flughafen Zuerich AG,Industrials,Switzerland
+473,SDY.L,GB0000163088,Speedy Hire PLC,Industrials,United Kingdom
+474,SLTG.DE,DE000A2NBTL2,Schaltbau Holding AG,Industrials,Germany
+475,HWM,US4432011082,Howmet Aerospace Inc,Industrials,USA
+476,ULVR.L,GB00B10RZP78,Unilever PLC,Consumer Non-Cyclicals,United Kingdom
+477,CCL.L,GB0031215220,Carnival PLC,Consumer Cyclicals,United Kingdom
+478,DPH.L,GB0009633180,Dechra Pharmaceuticals PLC,Healthcare,United Kingdom
+479,INWT.MI,IT0005090300,Infrastrutture Wireless Italiane SpA,Technology,Italy
+480,OMC,US6819191064,Omnicom Group Inc,Consumer Cyclicals,USA
+481,LBTYA.O,GB00B8W67662,Liberty Global PLC,Technology,United Kingdom
+482,TYRES.HE,FI0009005318,Nokian Tyres plc,Consumer Cyclicals,Finland
+483,KOA.OL,NO0003033102,Kongsberg Automotive ASA,Consumer Cyclicals,Norway
+484,AHT.L,GB0000536739,Ashtead Group PLC,Industrials,United Kingdom
+485,KMR.L,IE00BDC5DG00,Kenmare Resources PLC,Basic Materials,Ireland
+486,MAR.O,US5719032022,Marriott International Inc,Consumer Cyclicals,USA
+487,DVN,US25179M1036,Devon Energy Corp,Energy,USA
+488,BDXP.WA,PLBUDMX00013,Budimex SA,Industrials,Poland
+489,PII,US7310681025,Polaris Inc,Consumer Cyclicals,USA
+490,LAND.L,GB00BYW0PQ60,Land Securities Group PLC,Real Estate,United Kingdom
+491,BEKB.BR,BE0974258874,NV Bekaert SA,Industrials,Belgium
+492,MA,US57636Q1040,Mastercard Inc,Technology,USA
+493,AT1.DE,LU1673108939,Aroundtown SA,Real Estate,Luxembourg
+494,STLN.S,CH0005795668,Swiss Steel Holding AG,Basic Materials,Switzerland
+495,GHH.L,GB0002259116,Gooch & Housego PLC,Healthcare,United Kingdom
+496,BR,US11133T1034,Broadridge Financial Solutions Inc,Technology,USA
+497,CE,US1508701034,Celanese Corp,Basic Materials,USA
+498,ASH,US0441861046,Ashland Global Holdings Inc,Basic Materials,USA
+499,BMEB.L,LU1072616219,B&M European Value Retail SA,Consumer Cyclicals,Luxembourg
+500,PDM,US7201902068,Piedmont Office Realty Trust Inc,Real Estate,USA
+501,FRAN.L,GB00BD6P7Y24,Franchise Brands PLC,Consumer Cyclicals,United Kingdom
+502,AKAM.O,US00971T1016,Akamai Technologies Inc,Technology,USA
+503,BA,US0970231058,Boeing Co,Industrials,USA
+504,TC1n.H,DE000TCAG172,Tele Columbus AG,Technology,Germany
+505,EYDr.AT,GRS359353000,Athens Water and Sewerage Company SA,Utilities,Greece
+506,IBE.MC,ES0144580Y14,Iberdrola SA,Utilities,Spain
+507,BIOG.DE,DE0005227201,Biotest AG,Healthcare,Germany
+508,DHC.O,US25525P1075,Diversified Healthcare Trust,Real Estate,USA
+509,MTD,US5926881054,Mettler-Toledo International Inc,Technology,USA
+510,TSE,LU1057788488,Trinseo SA,Basic Materials,USA
+511,FIN.S,CH0001752309,Georg Fischer AG,Industrials,Switzerland
+512,EDNn.MI,IT0003372205,Edison SpA,Utilities,Italy
+513,LUCEL.L,GB00BZC0LP49,Luceco PLC,Industrials,United Kingdom
+514,CREE.O,US2254471012,Cree Inc,Technology,USA
+515,NOKIA.HE,FI0009000681,Nokia Oyj,Technology,Finland
+516,WTS,US9427491025,Watts Water Technologies Inc,Industrials,USA
+517,PM,US7181721090,Philip Morris International Inc,Consumer Non-Cyclicals,USA
+518,REGI.O,US75972A3014,Renewable Energy Group Inc,Energy,USA
+519,NAS.OL,NO0010196140,Norwegian Air Shuttle ASA,Industrials,Norway
+520,SES.MI,IT0004729759,Sesa SpA,Technology,Italy
+521,TIETO.HE,FI0009000277,TietoEVRY Corp,Technology,Finland
+522,EXLS.O,US3020811044,Exlservice Holdings Inc,Industrials,USA
+523,LRCX.O,US5128071082,Lam Research Corp,Technology,USA
+524,INFN.O,US45667G1031,Infinera Corp,Technology,USA
+525,CAV1V.HE,FI4000062781,Caverion Oyj,Industrials,Finland
+526,APTV.K,JE00B783TY65,Aptiv PLC,Consumer Cyclicals,Ireland
+527,WELL.K,US95040Q1040,Welltower Inc,Real Estate,USA
+528,STZ,US21036P1084,Constellation Brands Inc,Consumer Non-Cyclicals,USA
+529,PROB.ST,SE0001280355,Probi AB,Healthcare,Sweden
+530,GSM.O,GB00BYW6GV68,Ferroglobe PLC,Basic Materials,United Kingdom
+531,HHFGn.DE,DE000A0S8488,Hamburger Hafen und Logistik AG,Industrials,Germany
+532,CLOEb.ST,SE0002626861,Cloetta AB,Consumer Non-Cyclicals,Sweden
+533,T,US00206R1023,AT&T Inc,Technology,USA
+534,TCH.PA,FR0013505062,Technicolor SA,Consumer Cyclicals,France
+535,ABC,US03073E1055,Amerisourcebergen Corp,Consumer Non-Cyclicals,USA
+536,NRC.OL,NO0003679102,NRC Group ASA,Industrials,Norway
+537,GEPH.PA,FR0013181864,CGG SA,Energy,France
+538,O,US7561091049,Realty Income Corp,Real Estate,USA
+539,CEIX.K,US20854L1089,CONSOL Energy Inc,Energy,USA
+540,TNC,US8803451033,Tennant Co,Industrials,USA
+541,ICFI.O,US44925C1036,ICF International Inc,Industrials,USA
+542,HST.O,US44107P1049,Host Hotels & Resorts Inc,Real Estate,USA
+543,XRX.O,US98421M1062,Xerox Holdings Corp,Technology,USA
+544,SGOB.PA,FR0000125007,Compagnie de Saint Gobain SA,Consumer Cyclicals,France
+545,ES,US30040W1080,Eversource Energy,Utilities,USA
+546,BAG.L,GB00B6XZKY75,A G Barr PLC,Consumer Non-Cyclicals,United Kingdom
+547,AKRN.MM,RU0009028674,Akron PAO,Basic Materials,Russia
+548,BYG.L,GB0002869419,Big Yellow Group PLC,Real Estate,United Kingdom
+549,SASY.PA,FR0000120578,Sanofi SA,Healthcare,France
+550,SXC,US86722A1034,SunCoke Energy Inc,Basic Materials,USA
+551,KNOW.ST,SE0000421273,Knowit AB (publ),Technology,Sweden
+552,KDP.O,US49271V1008,Keurig Dr Pepper Inc,Consumer Non-Cyclicals,USA
+553,MSA,US5534981064,MSA Safety Inc,Industrials,USA
+554,OSG,US69036R8631,Overseas Shipholding Group Inc,Energy,USA
+555,MLHR.O,US6005441000,Herman Miller Inc,Industrials,USA
+556,SCTS.L,GB00BYZDVK82,Softcat PLC,Technology,United Kingdom
+557,PHTM.L,GB0008481250,Photo-Me International PLC,Technology,United Kingdom
+558,NICL.L,GB0006389398,Nichols PLC,Consumer Non-Cyclicals,United Kingdom
+559,BEIG.DE,DE0005200000,Beiersdorf AG,Consumer Non-Cyclicals,Germany
+560,BSS.MI,IT0003097257,Biesse SpA,Industrials,Italy
+561,V,US92826C8394,Visa Inc,Technology,USA
+562,MOBN.S,CH0011108872,Mobimo Holding AG,Real Estate,Switzerland
+563,SFER.MI,IT0004712375,Salvatore Ferragamo SpA,Consumer Cyclicals,Italy
+564,PV.DE,DE0006916604,Pfeiffer Vacuum Technology AG,Industrials,Germany
+565,ECMPA.AS,NL0015000K93,Eurocommercial Properties NV,Real Estate,Netherlands
+566,VASN.AS,NL0000288918,Vastned Retail NV,Real Estate,Netherlands
+567,CAG,US2058871029,Conagra Brands Inc,Consumer Non-Cyclicals,USA
+568,SUBC.OL,LU0075646355,Subsea 7 SA,Energy,United Kingdom
+569,PFD.L,GB00B7N0K053,Premier Foods PLC,Consumer Non-Cyclicals,United Kingdom
+570,RM.L,GB00BJT0FF39,RM PLC,Technology,United Kingdom
+571,ORP.PA,FR0000184798,Orpea SA,Healthcare,France
+572,SAEG.DE,NL0012044747,Shop Apotheke Europe NV,Consumer Non-Cyclicals,Netherlands
+573,METSB.HE,FI0009000665,Metsa Board Oyj,Basic Materials,Finland
+574,GLTN.PA,FR0000066672,GL Events SA,Industrials,France
+575,HE,US4198701009,Hawaiian Electric Industries Inc,Utilities,USA
+576,AGRV.VI,AT000AGRANA3,Agrana Beteiligungs AG,Consumer Non-Cyclicals,Austria
+577,HUH1V.HE,FI0009000459,Huhtamaki Oyj,Basic Materials,Finland
+578,VFC,US9182041080,VF Corp,Consumer Cyclicals,USA
+579,VNAn.DE,DE000A1ML7J1,Vonovia SE,Real Estate,Germany
+580,TGS.OL,NO0003078800,TGS ASA,Energy,Norway
+581,ADAG.DE,DE0005103006,ADVA Optical Networking SE,Technology,Germany
+582,LPPP.WA,PLLPP0000011,LPP SA,Consumer Cyclicals,Poland
+583,EBKG.DE,DE0005220008,EnBW Energie Baden Wuerttemberg AG,Utilities,Germany
+584,SCHP.S,CH0024638196,Schindler Holding AG,Industrials,Switzerland
+585,MLM,US5732841060,Martin Marietta Materials Inc,Basic Materials,USA
+586,TEL.OL,NO0010063308,Telenor ASA,Technology,Norway
+587,JNPR.K,US48203R1041,Juniper Networks Inc,Technology,USA
+588,DEC.L,GB00BYX7JT74,Diversified Energy Company PLC,Energy,USA
+589,KEX,US4972661064,Kirby Corp,Industrials,USA
+590,SIKA.S,CH0418792922,Sika AG,Basic Materials,Switzerland
+591,TOBII.ST,SE0002591420,Tobii AB,Technology,Sweden
+592,ED,US2091151041,Consolidated Edison Inc,Utilities,USA
+593,NESN.S,CH0038863350,Nestle SA,Consumer Non-Cyclicals,Switzerland
+594,ANA.MC,ES0125220311,Acciona SA,Industrials,Spain
+595,PK,US7005171050,Park Hotels & Resorts Inc,Real Estate,USA
+596,PLZL.MM,RU000A0JNAA8,Polyus PJSC,Basic Materials,Russia
+597,OKE,US6826801036,ONEOK Inc,Energy,USA
+598,MSLH.L,GB00B012BV22,Marshalls PLC,Basic Materials,United Kingdom
+599,JCI,IE00BY7QL619,Johnson Controls International PLC,Industrials,Ireland
+600,TELA.VI,AT0000720008,Telekom Austria AG,Technology,Austria
+601,DLAR.L,GB00B3DGH821,De La Rue PLC,Industrials,United Kingdom
+602,RWEG.DE,DE0007037129,RWE AG,Utilities,Germany
+603,CMG,US1696561059,Chipotle Mexican Grill Inc,Consumer Cyclicals,USA
+604,GTT.PA,FR0011726835,Gaztransport et Technigaz SA,Energy,France
+605,TNET.BR,BE0003826436,Telenet Group Holding NV,Technology,Belgium
+606,BARN.S,CH0009002962,Barry Callebaut AG,Consumer Non-Cyclicals,Switzerland
+607,RMD,US7611521078,Resmed Inc,Healthcare,USA
+608,TATE.L,GB0008754136,Tate & Lyle PLC,Consumer Non-Cyclicals,United Kingdom
+609,GCC.L,IE00B010DT83,C&C Group PLC,Consumer Non-Cyclicals,Ireland
+610,AROC.K,US03957W1062,Archrock Inc,Energy,USA
+611,SFRG.ST,SE0015346135,Stillfront Group AB (publ),Consumer Cyclicals,Sweden
+612,HHC,US44267D1072,Howard Hughes Corp,Real Estate,USA
+613,STAB.DE,LU1066226637,Stabilus SA,Industrials,Luxembourg
+614,CAIV.VI,AT0000641352,CA Immobilien Anlagen AG,Real Estate,Austria
+615,DELL.K,US24703L2025,Dell Technologies Inc,Technology,USA
+616,GFTU_u.L,IE00B00MZ448,Grafton Group PLC,Basic Materials,Ireland
+617,M,US55616P1049,Macy's Inc,Consumer Cyclicals,USA
+618,CIEA.MC,ES0105630315,CIE Automotive SA,Consumer Cyclicals,Spain
+619,BIG,US0893021032,Big Lots Inc,Consumer Cyclicals,USA
+620,HLMA.L,GB0004052071,Halma PLC,Technology,United Kingdom
+621,AFGA.OL,NO0003078107,Af Gruppen ASA,Industrials,Norway
+622,CRL,US1598641074,Charles River Laboratories International Inc,Healthcare,USA
+623,GPK,US3886891015,Graphic Packaging Holding Co,Basic Materials,USA
+624,HNI,US4042511000,HNI Corp,Industrials,USA
+625,SMTC.O,US8168501018,Semtech Corp,Technology,USA
+626,PBI,US7244791007,Pitney Bowes Inc,Technology,USA
+627,AWI,US04247X1028,Armstrong World Industries Inc,Consumer Cyclicals,USA
+628,SY1G.DE,DE000SYM9999,Symrise AG,Basic Materials,Germany
+629,PAGE.L,GB0030232317,Pagegroup PLC,Industrials,United Kingdom
+630,ABGV.VI,AT0000609607,Porr AG,Industrials,Austria
+631,MTXGn.DE,DE000A0D9PT0,MTU Aero Engines AG,Industrials,Germany
+632,NORTHM.CO,DK0010270347,North Media A/S,Consumer Cyclicals,Denmark
+633,ILMN.O,US4523271090,Illumina Inc,Healthcare,USA
+634,ITV.L,GB0033986497,ITV PLC,Consumer Cyclicals,United Kingdom
+635,ANEA.L,GB0000365774,Anglo-Eastern Plantations PLC,Consumer Non-Cyclicals,United Kingdom
+636,1U1.DE,DE0005545503,1&1 AG,Technology,Germany
+637,CONE.O,US23283R1005,CyrusOne Inc,Real Estate,USA
+638,ALIG.ST,SE0007158910,Alimak Group AB (publ),Industrials,Sweden
+639,TTALO.HE,FI4000252127,Terveystalo Oyj,Healthcare,Finland
+640,NFLX.O,US64110L1061,Netflix Inc,Technology,USA
+641,TEAM.O,GB00BZ09BD16,Atlassian Corporation PLC,Technology,United Kingdom
+642,SZGG.DE,DE0006202005,Salzgitter AG,Basic Materials,Germany
+643,FNTGn.DE,DE000A0Z2ZZ5,freenet AG,Technology,Germany
+644,MGEE.O,US55277P1049,MGE Energy Inc,Utilities,USA
+645,DLR,US2538681030,Digital Realty Trust Inc,Real Estate,USA
+646,KW,US4893981070,Kennedy-Wilson Holdings Inc,Real Estate,USA
+647,RWI.L,GB00BNR4T868,Renewi PLC,Industrials,United Kingdom
+648,CRI,US1462291097,Carter's Inc,Consumer Cyclicals,USA
+649,INCY.O,US45337C1027,Incyte Corp,Healthcare,USA
+650,MSNG.MM,RU0008958863,Mosenergo PAO,Utilities,Russia
+651,CHG.L,GB00B45C9X44,Chemring Group PLC,Industrials,United Kingdom
+652,REP.MC,ES0173516115,Repsol SA,Energy,Spain
+653,HRC,US4314751029,Hill-Rom Holdings Inc,Healthcare,USA
+654,BELL.S,CH0315966322,Bell Food Group AG,Consumer Non-Cyclicals,Switzerland
+655,CHMF.MM,RU0009046510,Severstal' PAO,Basic Materials,Russia
+656,FTI,GB00BDSFG982,TechnipFMC PLC,Energy,United Kingdom
+657,AEFES.IS,TRAAEFES91A9,Anadolu Efes Biracilik ve Malt Sanayii AS,Consumer Non-Cyclicals,Turkey
+658,S92G.DE,DE000A0DJ6J9,SMA Solar Technology AG,Technology,Germany
+659,HOCN.S,CH0024666528,Hochdorf Holding AG,Consumer Non-Cyclicals,Switzerland
+660,UPS,US9113121068,United Parcel Service Inc,Industrials,USA
+661,AKZO.AS,NL0013267909,Akzo Nobel NV,Basic Materials,Netherlands
+662,LMPL.L,GB00B4WFW713,Londonmetric Property PLC,Real Estate,United Kingdom
+663,HUMAN.ST,SE0008040653,Humana AB,Healthcare,Sweden
+664,ROCK.O,US3746891072,Gibraltar Industries Inc,Consumer Cyclicals,USA
+665,JD.L,GB00BYX91H57,JD Sports Fashion PLC,Consumer Cyclicals,United Kingdom
+666,TMX,US88087E1001,Terminix Global Holdings Inc,Industrials,USA
+667,TSCO.L,GB00BLGZ9862,Tesco PLC,Consumer Non-Cyclicals,United Kingdom
+668,PHOR.MM,RU000A0JRKT8,PhosAgro PAO,Basic Materials,Russia
+669,ORA,US6866881021,Ormat Technologies Inc,Utilities,USA
+670,TRMDa.CO,GB00BZ3CNK81,Torm PLC,Energy,United Kingdom
+671,RWA.L,GB0008475088,Robert Walters PLC,Industrials,United Kingdom
+672,KOS,US5006881065,Kosmos Energy Ltd,Energy,USA
+673,MAC,US5543821012,Macerich Co,Real Estate,USA
+674,VICI.K,US9256521090,VICI Properties Inc,Real Estate,USA
+675,NEXS.PA,FR0000044448,Nexans SA,Industrials,France
+676,WST,US9553061055,West Pharmaceutical Services Inc,Healthcare,USA
+677,G24n.DE,DE000A12DM80,Scout24 AG,Technology,Germany
+678,QCOM.O,US7475251036,Qualcomm Inc,Technology,USA
+679,AGRP.L,GB00BVGBWW93,Assura PLC,Real Estate,United Kingdom
+680,AKAST.OL,NO0010215684,Akastor ASA,Energy,Norway
+681,FB.O,US30303M1027,Facebook Inc,Technology,USA
+682,ROIC.O,US76131N1019,Retail Opportunity Investments Corp,Real Estate,USA
+683,FDM.L,GB00BLWDVP51,FDM Group (Holdings) PLC,Technology,United Kingdom
+684,MGM,US5529531015,MGM Resorts International,Consumer Cyclicals,USA
+685,TEN,US8803491054,Tenneco Inc,Consumer Cyclicals,USA
+686,JBHT.O,US4456581077,J B Hunt Transport Services Inc,Industrials,USA
+687,RMBS.O,US7509171069,Rambus Inc,Technology,USA
+688,MNZS.L,GB0005790059,John Menzies PLC,Industrials,United Kingdom
+689,CAH,US14149Y1082,Cardinal Health Inc,Consumer Non-Cyclicals,USA
+690,JSW.WA,PLJSW0000015,Jastrzebska Spolka Weglowa SA,Energy,Poland
+691,ZILGn.DE,DE0007856023,Elringklinger AG,Consumer Cyclicals,Germany
+692,FTON.S,CH0009320091,Feintool International Holding AG,Consumer Cyclicals,Switzerland
+693,AAPL.O,US0378331005,Apple Inc,Technology,USA
+694,PERP.PA,FR0000120693,Pernod Ricard SA,Consumer Non-Cyclicals,France
+695,O2Dn.DE,DE000A1J5RX9,Telefonica Deutschland Holding AG,Technology,Germany
+696,DORO.ST,SE0000215493,Doro AB,Technology,Sweden
+697,FARM.O,US3076751086,Farmer Bros Co,Consumer Non-Cyclicals,USA
+698,HEAD.L,GB0004170089,Headlam Group PLC,Consumer Cyclicals,United Kingdom
+699,AUSS.OL,NO0010073489,Austevoll Seafood ASA,Consumer Non-Cyclicals,Norway
+700,ISOS.PA,FR0000073298,Ipsos SA,Consumer Cyclicals,France
+701,EZJ.L,GB00B7KR2P84,Easyjet PLC,Industrials,United Kingdom
+702,HBI,US4103451021,HanesBrands Inc,Consumer Cyclicals,USA
+703,KRKG.LJ,SI0031102120,Krka dd Novo Mesto,Healthcare,Slovenia
+704,OGE,US6708371033,OGE Energy Corp,Utilities,USA
+705,TRNF_p.MM,RU0009091573,Transneft' PAO,Energy,Russia
+706,WHR,US9633201069,Whirlpool Corp,Consumer Cyclicals,USA
+707,BURL.K,US1220171060,Burlington Stores Inc,Consumer Cyclicals,USA
+708,HLT,US43300A2033,Hilton Worldwide Holdings Inc,Consumer Cyclicals,USA
+709,IDXX.O,US45168D1046,IDEXX Laboratories Inc,Healthcare,USA
+710,WEIR.L,GB0009465807,Weir Group PLC,Industrials,United Kingdom
+711,ERMT.PA,FR0000131757,Eramet SA,Basic Materials,France
+712,BRISA.IS,TRABRISA91E3,Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret AS,Consumer Cyclicals,Turkey
+713,CMCSA.O,US20030N1019,Comcast Corp,Consumer Cyclicals,USA
+714,AD.AS,NL0011794037,Koninklijke Ahold Delhaize NV,Consumer Non-Cyclicals,Netherlands
+715,CLDT.K,US16208T1025,Chatham Lodging Trust,Real Estate,USA
+716,EXMR.BR,BE0003808251,Exmar NV,Energy,Belgium
+717,BYS.S,CH0244017502,Bystronic AG,Industrials,Switzerland
+718,ANDR.VI,AT0000730007,Andritz AG,Industrials,Austria
+719,TUPRS.IS,TRATUPRS91E8,Turkiye Petrol Rafinerileri AS,Energy,Turkey
+720,NG.L,GB00BDR05C01,National Grid PLC,Utilities,United Kingdom
+721,KLAC.O,US4824801009,KLA Corp,Technology,USA
+722,PSX,US7185461040,Phillips 66,Energy,USA
+723,MTN,US91879Q1094,Vail Resorts Inc,Consumer Cyclicals,USA
+724,STOCKA.HE,FI0009000251,Stockmann Oyj Abp,Consumer Cyclicals,Finland
+725,GBFG.DE,DE0005909006,Bilfinger SE,Industrials,Germany
+726,VESBE.IS,TREVEST00017,Vestel Beyaz Esya Sanayi ve Ticaret AS,Consumer Cyclicals,Turkey
+727,RDW.L,GB00BG11K365,Redrow PLC,Consumer Cyclicals,United Kingdom
+728,WJG.L,GB00BD6RF223,Watkin Jones PLC,Real Estate,United Kingdom
+729,VSVS.L,GB00B82YXW83,Vesuvius PLC,Industrials,United Kingdom
+730,BLND.L,GB0001367019,British Land Company PLC,Real Estate,United Kingdom
+731,UIS,US9092143067,Unisys Corp,Technology,USA
+732,ARE,US0152711091,Alexandria Real Estate Equities Inc,Real Estate,USA
+733,CXW,US21871N1019,Corecivic Inc,Real Estate,USA
+734,RUN.O,US86771W1053,Sunrun Inc,Energy,USA
+735,ABIO.PA,FR0000060402,Albioma SA,Utilities,France
+736,MARS.L,GB00B1JQDM80,Marston's PLC,Consumer Cyclicals,United Kingdom
+737,TKTT.PA,FR0004188670,Tarkett SA,Consumer Cyclicals,France
+738,PAFR.L,GB0004300496,Pan African Resources PLC,Basic Materials,United Kingdom
+739,LRES.MC,ES0105015012,Lar Espana Real Estate SOCIMI SA,Real Estate,Spain
+740,COMM.O,US20337X1090,CommScope Holding Company Inc,Technology,USA
+741,FNAC.PA,FR0011476928,Fnac Darty SA,Consumer Cyclicals,France
+742,O2C.DE,AT0000A00Y78,Petro Welt Technologies AG,Energy,Austria
+743,CHRW.O,US12541W2098,CH Robinson Worldwide Inc,Industrials,USA
+744,SVEL.AS,NL0000852531,Kendrion NV,Consumer Cyclicals,Netherlands
+745,DEZG.DE,DE0006305006,DEUTZ AG,Industrials,Germany
+746,TKAG.DE,DE0007500001,Thyssenkrupp AG,Basic Materials,Germany
+747,NTGR.O,US64111Q1040,NETGEAR Inc,Technology,USA
+748,GN.CO,DK0010272632,GN Store Nord A/S,Healthcare,Denmark
+749,HELr.AT,GRS191213008,Ellaktor SA,Industrials,Greece
+750,ALM.MC,ES0157097017,Almirall SA,Healthcare,Spain
+751,AES,US00130H1059,AES Corp,Utilities,USA
+752,IP,US4601461035,International Paper Co,Basic Materials,USA
+753,DOKA.S,CH0011795959,Dormakaba Holding AG,Technology,Switzerland
+754,REE.MC,ES0173093024,Red Electrica Corporacion SA,Utilities,Spain
+755,OXIG.L,GB0006650450,Oxford Instruments PLC,Technology,United Kingdom
+756,HEIN.AS,NL0000009165,Heineken NV,Consumer Non-Cyclicals,Netherlands
+757,AMH,US02665T3068,American Homes 4 Rent,Real Estate,USA
+758,MDLZ.O,US6092071058,Mondelez International Inc,Consumer Non-Cyclicals,USA
+759,WMS,US00790R1041,Advanced Drainage Systems Inc,Consumer Cyclicals,USA
+760,IDLA.PA,FR0010929125,ID Logistics SAS,Industrials,France
+761,FLTRF.L,IE00BWT6H894,Flutter Entertainment PLC,Consumer Cyclicals,Ireland
+762,XLNX.O,US9839191015,Xilinx Inc,Technology,USA
+763,SN.L,GB0009223206,Smith & Nephew PLC,Healthcare,United Kingdom
+764,NDXG.DE,DE000A0D6554,Nordex SE,Industrials,Germany
+765,HFC,US4361061082,HollyFrontier Corp,Energy,USA
+766,AUDK.LU,LU0061462528,RTL Group SA,Consumer Cyclicals,Luxembourg
+767,DLN.L,GB0002652740,Derwent London PLC,Real Estate,United Kingdom
+768,RSG,US7607591002,Republic Services Inc,Industrials,USA
+769,TWKNc.AS,NL0000852523,TKH Group NV,Industrials,Netherlands
+770,WSM,US9699041011,Williams-Sonoma Inc,Consumer Cyclicals,USA
+771,TWLO.K,US90138F1021,Twilio Inc,Technology,USA
+772,CLASb.ST,SE0000584948,Clas Ohlson AB,Consumer Cyclicals,Sweden
+773,KRC,US49427F1084,Kilroy Realty Corp,Real Estate,USA
+774,OUT,US69007J1060,OUTFRONT Media Inc,Real Estate,USA
+775,CNA.L,GB00B033F229,Centrica PLC,Utilities,United Kingdom
+776,CAL,US1295001044,Caleres Inc,Consumer Cyclicals,USA
+777,ALMAC.HE,FI0009013114,Alma Media Oyj,Technology,Finland
+778,ABBV.K,US00287Y1091,Abbvie Inc,Healthcare,USA
+779,RIO.L,GB0007188757,Rio Tinto PLC,Basic Materials,United Kingdom
+780,KCHOL.IS,TRAKCHOL91Q8,Koc Holding AS,Consumer Non-Cyclicals,Turkey
+781,VERB.VI,AT0000746409,Verbund AG,Utilities,Austria
+782,BMKB.L,GB00BGHPT808,Benchmark Holdings PLC,Healthcare,United Kingdom
+783,ENTG.O,US29362U1043,Entegris Inc,Technology,USA
+784,GRLS.MC,ES0171996087,Grifols SA,Healthcare,Spain
+785,PRTC.L,GB00BY2Z0H74,PureTech Health PLC,Healthcare,USA
+786,CSL,US1423391002,Carlisle Companies Inc,Consumer Non-Cyclicals,USA
+787,SKAb.ST,SE0000113250,Skanska AB,Industrials,Sweden
+788,RCL,LR0008862868,Royal Caribbean Cruises Ltd,Consumer Cyclicals,USA
+789,SGEF.PA,FR0000125486,Vinci SA,Industrials,France
+790,AKSEN.IS,TREAKSN00011,Aksa Enerji Uretim AS,Utilities,Turkey
+791,CDEV.O,US15136A1025,Centennial Resource Development Inc,Energy,USA
+792,XHR,US9840171030,Xenia Hotels & Resorts Inc,Real Estate,USA
+793,PDG.L,GB00B1JQBT10,Pendragon PLC,Consumer Cyclicals,United Kingdom
+794,CRK,US2057683029,Comstock Resources Inc,Energy,USA
+795,MRW.L,GB0006043169,Wm Morrison Supermarkets P L C,Consumer Non-Cyclicals,United Kingdom
+796,SBRY.L,GB00B019KW72,J Sainsbury PLC,Consumer Non-Cyclicals,United Kingdom
+797,AVNS.K,US05350V1061,Avanos Medical Inc,Healthcare,USA
+798,PNW,US7234841010,Pinnacle West Capital Corp,Utilities,USA
+799,BCC,US09739D1000,Boise Cascade Co,Consumer Cyclicals,USA
+800,MT.AS,LU1598757687,ArcelorMittal SA,Basic Materials,Luxembourg
+801,SLAB.O,US8269191024,Silicon Laboratories Inc,Technology,USA
+802,VWS.CO,DK0061539921,Vestas Wind Systems A/S,Energy,Denmark
+803,LIAB.ST,SE0001852419,Lindab International AB,Industrials,Sweden
+804,AY.O,GB00BLP5YB54,Atlantica Sustainable Infrastructure PLC,Utilities,United Kingdom
+805,UPONOR.HE,FI0009002158,Uponor Oyj,Consumer Cyclicals,Finland
+806,LHX,US5024311095,L3harris Technologies Inc,Industrials,USA
+807,PRTP.PA,FR0000121485,Kering SA,Consumer Cyclicals,France
+808,DWNG.DE,DE000A0HN5C6,Deutsche Wohnen SE,Real Estate,Germany
+809,GEBN.S,CH0030170408,Geberit AG,Consumer Cyclicals,Switzerland
+810,KIE.L,GB0004915632,Kier Group PLC,Industrials,United Kingdom
+811,NVDA.O,US67066G1040,NVIDIA Corp,Technology,USA
+812,ELI.BR,BE0003822393,Elia Group SA,Utilities,Belgium
+813,OMCL.O,US68213N1090,Omnicell Inc,Healthcare,USA
+814,COLM.O,US1985161066,Columbia Sportswear Co,Consumer Cyclicals,USA
+815,DIS,US2546871060,Walt Disney Co,Consumer Cyclicals,USA
+816,BRX,US11120U1051,Brixmor Property Group Inc,Real Estate,USA
+817,ACS.MC,ES0167050915,ACS Actividades de Construccion y Servicios SA,Industrials,Spain
+818,PAYX.O,US7043261079,Paychex Inc,Industrials,USA
+819,LXSG.DE,DE0005470405,Lanxess AG,Basic Materials,Germany
+820,IDA,US4511071064,Idacorp Inc,Utilities,USA
+821,ABF.L,GB0006731235,Associated British Foods PLC,Consumer Non-Cyclicals,United Kingdom
+822,FMF.WA,PLFAMUR00012,Famur SA,Basic Materials,Poland
+823,BWNG.L,GB00B1P6ZR11,N Brown Group PLC,Consumer Cyclicals,United Kingdom
+824,SWKS.O,US83088M1027,Skyworks Solutions Inc,Technology,USA
+825,DPWGn.DE,DE0005552004,Deutsche Post AG,Industrials,Germany
+826,IGD.MI,IT0005322612,Immobiliare Grande Distribuzione SIIQ SpA,Real Estate,Italy
+827,VOES.VI,AT0000937503,voestalpine AG,Basic Materials,Austria
+828,POLHO.IS,TREPOHO00012,Polisan Holding AS,Basic Materials,Turkey
+829,AKRBP.OL,NO0010345853,Aker BP ASA,Energy,Norway
+830,IDIA.S,CH0363463438,Idorsia Ltd,Healthcare,Switzerland
+831,MTO.L,GB0004657408,Mitie Group PLC,Industrials,United Kingdom
+832,ATTE.ST,SE0007666110,Attendo AB (publ),Healthcare,Sweden
+833,UDR,US9026531049,UDR Inc,Real Estate,USA
+834,STLA.MI,NL00150001Q9,Stellantis NV,Consumer Cyclicals,Netherlands
+835,REG.O,US7588491032,Regency Centers Corp,Real Estate,USA
+836,MVVGn.DE,DE000A0H52F5,Mvv Energie AG,Utilities,Germany
+837,BDN,US1053682035,Brandywine Realty Trust,Real Estate,USA
+838,CWK.L,GB0002318888,Cranswick PLC,Consumer Non-Cyclicals,United Kingdom
+839,SCHA.OL,NO0003028904,Schibsted ASA,Consumer Cyclicals,Norway
+840,CLSGn.H,DE000CLS1001,McKesson Europe AG,Healthcare,Germany
+841,SNAP.K,US83304A1060,Snap Inc,Technology,USA
+842,KESKOB.HE,FI0009000202,Kesko Oyj,Consumer Non-Cyclicals,Finland
+843,BERY.K,US08579W1036,Berry Global Group Inc,Basic Materials,USA
+844,CERV.MI,IT0005010423,Cerved Group SpA,Industrials,Italy
+845,WMK,US9488491047,Weis Markets Inc,Consumer Non-Cyclicals,USA
+846,DMGOa.L,GB00BJQZC279,Daily Mail and General Trust P L C,Consumer Cyclicals,United Kingdom
+847,MAN,US56418H1005,ManpowerGroup Inc,Industrials,USA
+848,CDE,US1921085049,Coeur Mining Inc,Basic Materials,USA
+849,ATCOa.ST,SE0011166610,Atlas Copco AB,Industrials,Sweden
+850,RENA.PA,FR0000131906,Renault SA,Consumer Cyclicals,France
+851,IMCD.AS,NL0010801007,IMCD NV,Basic Materials,Netherlands
+852,MTSS.MM,RU0007775219,Mobil'nye Telesistemy PAO,Technology,Russia
+853,NCLH.K,BMG667211046,Norwegian Cruise Line Holdings Ltd,Consumer Cyclicals,USA
+854,NOBINA.ST,SE0007185418,Nobina AB (publ),Industrials,Sweden
+855,SIEGn.DE,DE0007236101,Siemens AG,Consumer Non-Cyclicals,Germany
+856,CPC.L,GB00BYWRS683,City Pub Group PLC,Consumer Cyclicals,United Kingdom
+857,ORSO.MI,IT0005138703,Orsero SpA,Consumer Non-Cyclicals,Italy
+858,AGCO.K,US0010841023,AGCO Corp,Industrials,USA
+859,TAVHL.IS,TRETAVH00018,TAV Havalimanlari Holding AS,Industrials,Turkey
+860,AIRF.PA,FR0000031122,Air France KLM SA,Industrials,France
+861,BG,BMG169621056,Bunge Ltd,Consumer Non-Cyclicals,USA
+862,MRO,US5658491064,Marathon Oil Corp,Energy,USA
+863,POST.VI,AT0000APOST4,Oesterreichische Post AG,Industrials,Austria
+864,CAF.MC,ES0121975009,Construcciones Y Auxiliar De Ferrocarriles SA,Industrials,Spain
+865,HAYS.L,GB0004161021,Hays PLC,Industrials,United Kingdom
+866,ENEI.MI,IT0003128367,Enel SpA,Utilities,Italy
+867,VIS.MC,ES0184262212,Viscofan SA,Basic Materials,Spain
+868,BFb,US1156372096,Brown-Forman Corp,Consumer Non-Cyclicals,USA
+869,FGP.L,GB0003452173,FirstGroup PLC,Industrials,United Kingdom
+870,KER.WA,LU0327357389,Kernel Holding SA,Consumer Non-Cyclicals,Ukraine
+871,KNEBV.HE,FI0009013403,Kone Oyj,Industrials,Finland
+872,LLY,US5324571083,Eli Lilly and Co,Healthcare,USA
+873,FTV,US34959J1088,Fortive Corp,Industrials,USA
+874,RHKG.DE,DE0007042301,Rhoen Klinikum AG,Healthcare,Germany
+875,ULE.L,GB0009123323,Ultra Electronics Holdings PLC,Industrials,United Kingdom
+876,GRANG.ST,SE0006288015,Granges AB,Basic Materials,Sweden
+877,TED.L,GB0001048619,Ted Baker PLC,Consumer Cyclicals,United Kingdom
+878,BYWGnx.DE,DE0005194062,BayWa AG,Consumer Non-Cyclicals,Germany
+879,FROTO.IS,TRAOTOSN91H6,Ford Otomotiv Sanayi AS,Consumer Cyclicals,Turkey
+880,CLX,US1890541097,Clorox Co,Consumer Non-Cyclicals,USA
+881,DTE,US2333311072,DTE Energy Co,Utilities,USA
+882,HKSAV.HE,FI0009006308,HKScan Oyj,Consumer Non-Cyclicals,Finland
+883,PST.MI,IT0003796171,Poste Italiane SpA,Industrials,Italy
+884,JSG.L,GB0004762810,Johnson Service Group PLC,Industrials,United Kingdom
+885,DOAS.IS,TREDOTO00013,Dogus Otomotiv Servis ve Ticaret AS,Consumer Cyclicals,Turkey
+886,OVS.MI,IT0005043507,OVS SpA,Consumer Cyclicals,Italy
+887,BAR.BR,BE0974362940,Barco NV,Technology,Belgium
+888,BNRGn.DE,DE000A1DAHH0,Brenntag SE,Basic Materials,Germany
+889,FMC,US3024913036,FMC Corp,Basic Materials,USA
+890,SMWH.L,GB00B2PDGW16,WH Smith PLC,Consumer Cyclicals,United Kingdom
+891,PXD,US7237871071,Pioneer Natural Resources Co,Energy,USA
+892,ELISA.HE,FI0009007884,Elisa Oyj,Technology,Finland
+893,DFDS.CO,DK0060655629,DFDS AS,Industrials,Denmark
+894,SNGS.MM,RU0008926258,Surgutneftegaz PAO,Energy,Russia
+895,DCI,US2576511099,Donaldson Company Inc,Industrials,USA
+896,CTY1S.HE,FI4000369947,Citycon Oyj,Real Estate,Finland
+897,NMAN.ST,SE0011204510,Nederman Holding AB,Industrials,Sweden
+898,TT,IE00BK9ZQ967,Trane Technologies PLC,Industrials,Ireland
+899,TTEK.O,US88162G1031,Tetra Tech Inc,Industrials,USA
+900,AVNT.K,US05368V1061,Avient Corp,Basic Materials,USA
+901,MCRO.L,GB00BJ1F4N75,Micro Focus International PLC,Technology,United Kingdom
+902,MCO,US6153691059,Moody's Corp,Industrials,USA
+903,EL,US5184391044,Estee Lauder Companies Inc,Consumer Non-Cyclicals,USA
+904,SWCH.K,US87105L1044,Switch Inc,Technology,USA
+905,OTKAR.IS,TRAOTKAR91H3,Otokar Otomotiv ve Savunma Sanayi AS,Industrials,Turkey
+906,XANOb.ST,SE0012674232,XANO Industri AB,Industrials,Sweden
+907,FUTR.L,GB00BYZN9041,Future PLC,Consumer Cyclicals,United Kingdom
+908,ELIOR.PA,FR0011950732,Elior Group SA,Consumer Cyclicals,France
+909,HLDX.ST,SE0000105199,Haldex AB,Consumer Cyclicals,Sweden
+910,ROSN.MM,RU000A0J2Q06,NK Rosneft' PAO,Energy,Russia
+911,NOC,US6668071029,Northrop Grumman Corp,Industrials,USA
+912,SURG.DE,DE0005176903,Surteco Group SE,Consumer Cyclicals,Germany
+913,DAST.PA,FR0014003TT8,Dassault Systemes SE,Technology,France
+914,HTA,US42225P5017,Healthcare Trust Of America Inc,Real Estate,USA
+915,BCU.MI,IT0004764699,Brunello Cucinelli SpA,Consumer Cyclicals,Italy
+916,SAEI.MI,IT0001029492,Saes Getters SpA,Industrials,Italy
+917,BKGH.L,GB00BLJNXL82,Berkeley Group Holdings PLC,Consumer Cyclicals,United Kingdom
+918,BVIC.L,GB00B0N8QD54,Britvic PLC,Consumer Non-Cyclicals,United Kingdom
+919,TER.O,US8807701029,Teradyne Inc,Technology,USA
+920,SAS.ST,SE0003366871,SAS AB,Industrials,Sweden
+921,TCELL.IS,TRATCELL91M1,Turkcell Iletisim Hizmetleri AS,Technology,Turkey
+922,GAZP.MM,RU0007661625,Gazprom PAO,Energy,Russia
+923,TAP,US60871R2094,Molson Coors Beverage Co,Consumer Non-Cyclicals,USA
+924,GFII.PA,FR0000050353,Lisi SA,Industrials,France
+925,BRBI.MI,IT0005252728,Brembo SpA,Consumer Cyclicals,Italy
+926,MIDWM.L,GB00BYSXWW41,Midwich Group PLC,Technology,United Kingdom
+927,NP,US6400791090,Neenah Inc,Basic Materials,USA
+928,BWA,US0997241064,Borgwarner Inc,Consumer Cyclicals,USA
+929,DVO.L,GB0002670437,Devro PLC,Consumer Non-Cyclicals,United Kingdom
+930,FLS,US34354P1057,Flowserve Corp,Industrials,USA
+931,EVRG.K,US30034W1062,Evergy Inc,Utilities,USA
+932,DFSD.L,GB00BTC0LB89,DFS Furniture PLC,Consumer Cyclicals,United Kingdom
+933,HPP,US4440971095,Hudson Pacific Properties Inc,Real Estate,USA
+934,SCAb.ST,SE0000112724,Svenska Cellulosa SCA AB,Basic Materials,Sweden
+935,VTYV.L,GB0001859296,Vistry Group PLC,Consumer Cyclicals,United Kingdom
+936,AFKS.MM,RU000A0DQZE3,AFK Sistema PAO,Technology,Russia
+937,MU.O,US5951121038,Micron Technology Inc,Technology,USA
+938,VLLP.PA,FR0013506730,Vallourec SA,Energy,France
+939,SNPS.O,US8716071076,Synopsys Inc,Technology,USA
+940,GFTG.DE,DE0005800601,GFT Technologies SE,Technology,Germany
+941,MGNS.L,GB0008085614,Morgan Sindall Group PLC,Industrials,United Kingdom
+942,AKENR.IS,TRAAKENR91L9,Akenerji Elektrik Uretim AS,Utilities,Turkey
+943,NSTEc.AS,NL0012365084,NSI NV,Real Estate,Netherlands
+944,PSON.L,GB0006776081,Pearson PLC,Consumer Cyclicals,United Kingdom
+945,SLCA.K,US90346E1038,US Silica Holdings Inc,Basic Materials,USA
+946,EBAY.O,US2786421030,eBay Inc,Technology,USA
+947,VIFN.S,CH0364749348,Vifor Pharma AG,Healthcare,Switzerland
+948,GETP.PA,FR0010533075,Getlink SE,Industrials,France
+949,LSG.OL,NO0003096208,Leroy Seafood Group ASA,Consumer Non-Cyclicals,Norway
+950,VIEV.VI,AT00000VIE62,Flughafen Wien AG,Industrials,Austria
+951,SMDS.L,GB0008220112,DS Smith PLC,Basic Materials,United Kingdom
+952,AXL,US0240611030,American Axle & Manufacturing Holdings Inc,Consumer Cyclicals,USA
+953,UE,US91704F1049,Urban Edge Properties,Real Estate,USA
+954,WLK,US9604131022,Westlake Chemical Corp,Basic Materials,USA
+955,CBT,US1270551013,Cabot Corp,Basic Materials,USA
+956,SFR.L,GB00B27YGJ97,Severfield PLC,Industrials,United Kingdom
+957,ESE,US2963151046,ESCO Technologies Inc,Industrials,USA
+958,AVV.L,GB00BBG9VN75,AVEVA Group PLC,Technology,United Kingdom
+959,REJLb.ST,SE0000123671,Rejlers AB (publ),Industrials,Sweden
+960,GT.O,US3825501014,Goodyear Tire & Rubber Co,Consumer Cyclicals,USA
+961,AFRY.ST,SE0005999836,Afry AB,Industrials,Sweden
+962,PKPP.WA,PLPKPCR00011,PKP Cargo SA,Industrials,Poland
+963,METN.S,CH0039821084,Metall Zug AG,Consumer Cyclicals,Switzerland
+964,OPL.WA,PLTLKPL00017,Orange Polska SA,Technology,Poland
+965,MTW,US5635714059,Manitowoc Company Inc,Industrials,USA
+966,TOM.OL,NO0005668905,Tomra Systems ASA,Industrials,Norway
+967,MIKN.S,CH0003390066,Mikron Holding AG,Industrials,Switzerland
+968,LAT1V.HE,FI0009010854,Lassila & Tikanoja Oyj,Industrials,Finland
+969,CPRI.K,VGG1890L1076,Capri Holdings Ltd,Consumer Cyclicals,United Kingdom
+970,XPO,US9837931008,XPO Logistics Inc,Industrials,USA
+971,TGYM.MI,IT0005162406,Technogym SpA,Consumer Cyclicals,Italy
+972,DHR,US2358511028,Danaher Corp,Healthcare,USA
+973,ARJOb.ST,SE0010468116,Arjo AB (publ),Healthcare,Sweden
+974,ENTRA.OL,NO0010716418,Entra ASA,Real Estate,Norway
+975,BAYGn.DE,DE000BAY0017,Bayer AG,Healthcare,Germany
+976,MOS,US61945C1036,Mosaic Co,Basic Materials,USA
+977,LAGA.PA,FR0000130213,Lagardere SA,Consumer Cyclicals,France
+978,GD,US3695501086,General Dynamics Corp,Industrials,USA
+979,ALKb.CO,DK0060027142,ALK-Abello A/S,Healthcare,Denmark
+980,EMMN.S,CH0012829898,Emmi AG,Consumer Non-Cyclicals,Switzerland
+981,FINGb.ST,SE0008374250,Fingerprint Cards AB,Technology,Sweden
+982,TFFP.PA,FR0000054900,Television Francaise 1 SA,Consumer Cyclicals,France
+983,PAGP.O,US72651A2078,Plains GP Holdings LP,Energy,USA
+984,GYM.L,GB00BZBX0P70,GYM Group PLC,Consumer Cyclicals,United Kingdom
+985,INCH.L,GB00B61TVQ02,Inchcape PLC,Consumer Cyclicals,United Kingdom
+986,SRSr.AT,GRS204003008,Gr Sarantis SA,Consumer Non-Cyclicals,Greece
+987,INTC.O,US4581401001,Intel Corp,Technology,USA
+988,CBLP.PA,FR0000039620,Mersen SA,Consumer Non-Cyclicals,France
+989,IMPN.S,CH0023868554,Implenia AG,Industrials,Switzerland
+990,PGS.OL,NO0010199151,PGS ASA,Energy,Norway
+991,SPG,US8288061091,Simon Property Group Inc,Real Estate,USA
+992,OSRn.H,DE000LED4000,Osram Licht AG,Industrials,Germany
+993,UNH,US91324P1021,UnitedHealth Group Inc,Healthcare,USA
+994,SLG,US78440X8048,SL Green Realty Corp,Real Estate,USA
+995,KU2G.DE,DE0006204407,Kuka AG,Industrials,Germany
+996,BICP.PA,FR0000120966,Societe BIC SA,Industrials,France
+997,DGE.L,GB0002374006,Diageo PLC,Consumer Non-Cyclicals,United Kingdom
+998,PSMGn.DE,DE000PSM7770,Prosiebensat 1 Media SE,Consumer Cyclicals,Germany
+999,CLW,US18538R1032,Clearwater Paper Corp,Basic Materials,USA
+1000,CORA.LS,PTCOR0AE0006,Corticeira Amorim SGPS SA,Basic Materials,Portugal
+1001,ADS,US0185811082,Alliance Data Systems Corp,Industrials,USA
+1002,CLB,NL0000200384,Core Laboratories NV,Energy,Netherlands
+1003,MRCG.DE,DE0006599905,Merck KGaA,Healthcare,Germany
+1004,VTRS.O,US92556V1061,Viatris Inc,Healthcare,USA
+1005,ELIS.PA,FR0012435121,Elis SA,Industrials,France
+1006,HYVE.L,GB00BKP36R26,Hyve Group PLC,Industrials,United Kingdom
+1007,MCD,US5801351017,Mcdonald's Corp,Consumer Cyclicals,USA
+1008,GSK.L,GB0009252882,GlaxoSmithKline PLC,Healthcare,United Kingdom
+1009,ADB.MI,IT0001006128,Aeroporto Guglielmo Marconi di Bologna SpA,Industrials,Italy
+1010,ALRS.MM,RU0007252813,AK Alrosa PAO,Basic Materials,Russia
+1011,SCST.ST,SE0005999760,Scandi Standard AB (publ),Consumer Non-Cyclicals,Sweden
+1012,CTEC.L,GB00BD3VFW73,ConvaTec Group PLC,Healthcare,United Kingdom
+1013,IHG.L,GB00BHJYC057,InterContinental Hotels Group PLC,Consumer Cyclicals,United Kingdom
+1014,TXN.O,US8825081040,Texas Instruments Inc,Technology,USA
+1015,MEL.MC,ES0176252718,Melia Hotels International SA,Consumer Cyclicals,Spain
+1016,VP.L,GB0009286963,VP PLC,Industrials,United Kingdom
+1017,HTRO.ST,SE0002367797,Hexatronic Group AB,Industrials,Sweden
+1018,DAL.MI,IT0004053440,Datalogic SpA,Technology,Italy
+1019,IEX,US45167R1041,IDEX Corp,Industrials,USA
+1020,CCT.L,GB0008976119,Character Group PLC,Consumer Cyclicals,United Kingdom
+1021,CCCP.WA,PLCCC0000016,CCC SA,Consumer Cyclicals,Poland
+1022,AENA.MC,ES0105046009,Aena SME SA,Industrials,Spain
+1023,CLH,US1844961078,Clean Harbors Inc,Industrials,USA
+1024,ANSS.O,US03662Q1058,ANSYS Inc,Technology,USA
+1025,VETN.S,CH0530235594,Vetropack Holding SA,Basic Materials,Switzerland
+1026,LH,US50540R4092,Laboratory Corporation of America Holdings,Healthcare,USA
+1027,GALP.LS,PTGAL0AM0009,Galp Energia SGPS SA,Energy,Portugal
+1028,MTGb.ST,SE0000412371,Modern Times Group MTG AB,Technology,Sweden
+1029,FEVR.L,GB00BRJ9BJ26,Fevertree Drinks PLC,Consumer Non-Cyclicals,United Kingdom
+1030,LOW,US5486611073,Lowe's Companies Inc,Consumer Cyclicals,USA
+1031,EGLE.O,MHY2187A1507,Eagle Bulk Shipping Inc,Industrials,USA
+1032,PSG.MC,ES0175438003,Prosegur Compania de Seguridad SA,Industrials,Spain
+1033,SNWS.L,GB00B17WCR61,Smiths News PLC,Consumer Cyclicals,United Kingdom
+1034,AXFO.ST,SE0006993770,Axfood AB,Consumer Non-Cyclicals,Sweden
+1035,WAB,US9297401088,Westinghouse Air Brake Technologies Corp,Industrials,USA
+1036,RBREW.CO,DK0060634707,Royal Unibrew A/S,Consumer Non-Cyclicals,Denmark
+1037,YUM,US9884981013,Yum! Brands Inc,Consumer Cyclicals,USA
+1038,AMBEA.ST,SE0009663826,Ambea AB (publ),Healthcare,Sweden
+1039,HSY,US4278661081,Hershey Co,Consumer Non-Cyclicals,USA
+1040,ITX.MC,ES0148396007,Industria de Diseno Textil SA,Consumer Cyclicals,Spain
+1041,ELEN.MI,IT0005453250,El En SpA,Healthcare,Italy
+1042,JBLU.O,US4771431016,JetBlue Airways Corp,Industrials,USA
+1043,VOPA.AS,NL0009432491,Koninklijke Vopak NV,Energy,Netherlands
+1044,ASML.AS,NL0010273215,ASML Holding NV,Technology,Netherlands
+1045,ARW,US0427351004,Arrow Electronics Inc,Technology,USA
+1046,NHY.OL,NO0005052605,Norsk Hydro ASA,Basic Materials,Norway
+1047,TKFEN.IS,TRETKHO00012,Tekfen Holding AS,Industrials,Turkey
+1048,R,US7835491082,Ryder System Inc,Industrials,USA
+1049,STERV.HE,FI0009005961,Stora Enso Oyj,Basic Materials,Finland
+1050,HAS.O,US4180561072,Hasbro Inc,Consumer Cyclicals,USA
+1051,COFB.BR,BE0003593044,Cofinimmo SA,Real Estate,Belgium
+1052,HUBN.S,CH0030380734,Huber+Suhner AG,Technology,Switzerland
+1053,CRH.L,IE0001827041,CRH PLC,Basic Materials,Ireland
+1054,ZV.MI,IT0004171440,Zignago Vetro SpA,Basic Materials,Italy
+1055,TLIT.MI,IT0003497168,Telecom Italia SpA,Technology,Italy
+1056,NFG,US6361801011,National Fuel Gas Co,Utilities,USA
+1057,MRON.L,GB00BNR5MZ78,Melrose Industries PLC,Consumer Non-Cyclicals,United Kingdom
+1058,EMANE.L,GB00BFH55S51,Everyman Media Group PLC,Consumer Cyclicals,United Kingdom
+1059,CATE.ST,SE0001664707,Catena AB,Real Estate,Sweden
+1060,RHP,US78377T1079,Ryman Hospitality Properties Inc,Real Estate,USA
+1061,EQIX.O,US29444U7000,Equinix Inc,Real Estate,USA
+1062,HAL,US4062161017,Halliburton Co,Energy,USA
+1063,LSL.L,GB00B1G5HX72,LSL Property Services PLC,Real Estate,United Kingdom
+1064,BWXT.K,US05605H1005,BWX Technologies Inc,Industrials,USA
+1065,SGE.L,GB00B8C3BL03,Sage Group PLC,Technology,United Kingdom
+1066,EDV.TO,GB00BL6K5J42,Endeavour Mining PLC,Basic Materials,United Kingdom
+1067,SSPG.L,GB00BGBN7C04,SSP Group PLC,Consumer Cyclicals,United Kingdom
+1068,EDPR.LS,ES0127797019,EDP Renovaveis SA,Utilities,Spain
+1069,KRA,US50077C1062,Kraton Corp,Basic Materials,USA
+1070,MDC,US5526761086,MDC Holdings Inc,Consumer Cyclicals,USA
+1071,CSCO.O,US17275R1023,Cisco Systems Inc,Technology,USA
+1072,ATL.MI,IT0003506190,Atlantia SpA,Industrials,Italy
+1073,GBX,US3936571013,Greenbrier Companies Inc,Industrials,USA
+1074,HUM,US4448591028,Humana Inc,Healthcare,USA
+1075,SAHN.S,CH0009062099,Schaffner Holding AG,Industrials,Switzerland
+1076,ALDA.PA,FR0013258662,ALD SA,Industrials,France
+1077,VMW,US9285634021,VMware Inc,Technology,USA
+1078,CPB,US1344291091,Campbell Soup Co,Consumer Non-Cyclicals,USA
+1079,ALFA.ST,SE0000695876,Alfa Laval AB,Industrials,Sweden
+1080,CPI.L,GB00B23K0M20,Capita PLC,Industrials,United Kingdom
+1081,ALKS.O,IE00B56GVS15,Alkermes Plc,Healthcare,Ireland
+1082,BIIB.O,US09062X1037,Biogen Inc,Healthcare,USA
+1083,SJM,US8326964058,J M Smucker Co,Consumer Non-Cyclicals,USA
+1084,CPRI.MI,NL0015435975,Davide Campari Milano NV,Consumer Non-Cyclicals,Italy
+1085,VLOF.PA,FR0013176526,Valeo SE,Consumer Cyclicals,France
+1086,DRX.L,GB00B1VNSX38,Drax Group PLC,Utilities,United Kingdom
+1087,ENC.MC,ES0130625512,Ence Energia y Celulosa SA,Basic Materials,Spain
+1088,CAI.MI,IT0004329733,Cairo Communication SpA,Consumer Cyclicals,Italy
+1089,ANTM.K,US0367521038,Anthem Inc,Healthcare,USA
+1090,GORO.K,US38068T1051,Gold Resource Corp,Basic Materials,USA
+1091,WAWI.OL,NO0010571680,Wallenius Wilhelmsen ASA,Industrials,Norway
+1092,QXT.L,GB00B99PCP71,Quixant PLC,Consumer Cyclicals,United Kingdom
+1093,RKT.L,GB00B24CGK77,Reckitt Benckiser Group PLC,Consumer Non-Cyclicals,United Kingdom
+1094,GNS.L,GB0002074580,Genus PLC,Healthcare,United Kingdom
+1095,PHG.AS,NL0000009538,Koninklijke Philips NV,Healthcare,Netherlands
+1096,SOON.S,CH0012549785,Sonova Holding AG,Healthcare,Switzerland
+1097,AVA,US05379B1070,Avista Corp,Utilities,USA
+1098,CECG.DE,DE0007257503,Ceconomy AG,Consumer Cyclicals,Germany
+1099,KORI.PA,FR0010386334,Korian SA,Healthcare,France
+1100,ASPO.HE,FI0009008072,Aspo Plc,Industrials,Finland
+1101,KMT,US4891701009,Kennametal Inc,Industrials,USA
+1102,QRTEA.O,US74915M1009,Qurate Retail Inc,Consumer Cyclicals,USA
+1103,ENENTO.HE,FI4000123195,Enento Group Plc,Industrials,Finland
+1104,PHRA.LS,PTPTC0AM0009,Pharol SGPS SA,Technology,Portugal
+1105,AIRP.PA,FR0000120073,L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA,Basic Materials,France
+1106,DXC,US23355L1061,DXC Technology Co,Technology,USA
+1107,SCMN.S,CH0008742519,Swisscom AG,Technology,Switzerland
+1108,ADSGn.DE,DE000A1EWWW0,Adidas AG,Consumer Cyclicals,Germany
+1109,ODF.OL,NO0003399909,Odfjell SE,Energy,Norway
+1110,SEVI.PA,FR0010613471,Suez SA,Industrials,France
+1111,STDM.PA,FR0013154002,Sartorius Stedim Biotech SA,Healthcare,France
+1112,APA.O,US03743Q1085,APA Corp (US),Energy,USA
+1113,CCHE.PA,FR0000039109,Seche Environnement SA,Industrials,France
+1114,FAGRO.BR,BE0003874915,Fagron NV,Healthcare,Belgium
+1115,HMSO.L,GB00BK7YQK64,Hammerson PLC,Real Estate,United Kingdom
+1116,VCTX.L,GB0009292243,Victrex PLC,Basic Materials,United Kingdom
+1117,JMAT.L,GB00BZ4BQC70,Johnson Matthey PLC,Basic Materials,United Kingdom
+1118,DOMETIC.ST,SE0007691613,Dometic Group AB (publ),Consumer Cyclicals,Sweden
+1119,BAB.L,GB0009697037,Babcock International Group PLC,Industrials,United Kingdom
+1120,PGSUS.IS,TREPEGS00016,Pegasus Hava Tasimaciligi AS,Industrials,Turkey
+1121,DVA,US23918K1088,DaVita Inc,Healthcare,USA
+1122,LDOS.K,US5253271028,Leidos Holdings Inc,Technology,USA
+1123,HFG.L,GB00B1V9NW54,Hilton Food Group PLC,Consumer Non-Cyclicals,United Kingdom
+1124,MEKKO.HE,FI0009007660,Marimekko Oyj,Consumer Cyclicals,Finland
+1125,BVB.DE,DE0005493092,Borussia Dortmund GmbH & Co KGaA,Consumer Cyclicals,Germany
+1126,NWOn.DE,DE000NWRK013,New Work SE,Technology,Germany
+1127,RMG.L,GB00BDVZYZ77,Royal Mail PLC,Industrials,United Kingdom
+1128,MONC.MI,IT0004965148,Moncler SpA,Consumer Cyclicals,Italy
+1129,MUR,US6267171022,Murphy Oil Corp,Energy,USA
+1130,OTEr.AT,GRS260333000,Hellenic Telecommunications Organization SA,Technology,Greece
+1131,EPWN.L,GB00BNGY4Y86,Epwin Group PLC,Consumer Cyclicals,United Kingdom
+1132,EKTAb.ST,SE0000163628,Elekta AB (publ),Healthcare,Sweden
+1133,FSP,US35471R1068,Franklin Street Properties Corp,Real Estate,USA
+1134,RNK.L,GB00B1L5QH97,Rank Group PLC,Consumer Cyclicals,United Kingdom
+1135,MHPCq.L,US55302T2042,MHP SE,Consumer Non-Cyclicals,Ukraine
+1136,WMB,US9694571004,Williams Companies Inc,Energy,USA
+1137,PYHE.PA,FR0000066755,Haulotte Group SA,Industrials,France
+1138,DTY.L,GB00BRB37M78,Dignity PLC,Consumer Non-Cyclicals,United Kingdom
+1139,TXT,US8832031012,Textron Inc,Industrials,USA
+1140,CDNS.O,US1273871087,Cadence Design Systems Inc,Technology,USA
+1141,SWN,US8454671095,Southwestern Energy Co,Energy,USA
+1142,REY.MI,IT0005282865,Reply SpA,Technology,Italy
+1143,NLFSK.CO,DK0060907293,Nilfisk Holding A/S,Industrials,Denmark
+1144,DRH,US2527843013,Diamondrock Hospitality Co,Real Estate,USA
+1145,CIEN.K,US1717793095,Ciena Corp,Technology,USA
+1146,GEST.MC,ES0105223004,Gestamp Automocion SA,Consumer Cyclicals,Spain
+1147,LII,US5261071071,Lennox International Inc,Industrials,USA
+1148,HD,US4370761029,Home Depot Inc,Consumer Cyclicals,USA
+1149,VLO,US91913Y1001,Valero Energy Corp,Energy,USA
+1150,FWONA.O,US5312298707,Liberty Media Corp,Consumer Cyclicals,USA
+1151,ASY.PA,FR0000074148,Assystem SA,Industrials,France
+1152,CONG.DE,DE0005439004,Continental AG,Consumer Cyclicals,Germany
+1153,PSN.L,GB0006825383,Persimmon PLC,Consumer Cyclicals,United Kingdom
+1154,KOP,US50060P1066,Koppers Holdings Inc,Basic Materials,USA
+1155,IREE.MI,IT0003027817,Iren SpA,Utilities,Italy
+1156,DGX,US74834L1008,Quest Diagnostics Inc,Healthcare,USA
+1157,RECT.BR,BE0003656676,Recticel NV,Basic Materials,Belgium
+1158,ESLX.PA,FR0000121667,EssilorLuxottica SA,Consumer Cyclicals,France
+1159,FXPO.L,GB00B1XH2C03,Ferrexpo PLC,Basic Materials,Switzerland
+1160,BOND.PA,FR0000063935,Bonduelle SA,Consumer Non-Cyclicals,France
+1161,ASCL.L,GB00BYM8GJ06,Ascential PLC,Industrials,United Kingdom
+1162,MYCR.ST,SE0000375115,Mycronic AB (publ),Technology,Sweden
+1163,GXIG.DE,DE000A0LD6E6,Gerresheimer AG,Healthcare,Germany
+1164,XEL.O,US98389B1008,Xcel Energy Inc,Utilities,USA
+1165,ESS,US2971781057,Essex Property Trust Inc,Real Estate,USA
+1166,KCOGn.DE,DE000KC01000,Kloeckner & Co SE,Basic Materials,Germany
+1167,M5ZG.DE,DE000A0JQ5U3,Manz AG,Technology,Germany
+1168,DOV,US2600031080,Dover Corp,Industrials,USA
+1169,SCYR.MC,ES0182870214,Sacyr SA,Industrials,Spain
+1170,CMC,US2017231034,Commercial Metals Co,Basic Materials,USA
+1171,UNVR.K,US91336L1070,Univar Solutions Inc,Basic Materials,USA
+1172,HUN,US4470111075,Huntsman Corp,Basic Materials,USA
+1173,BDEV.L,GB0000811801,Barratt Developments P L C,Consumer Cyclicals,United Kingdom
+1174,SEM.LS,PTSEM0AM0004,Semapa Sociedade de Investimento e Gestao SGPS SA,Basic Materials,Portugal
+1175,ILD.PA,FR0004035913,Iliad SA,Technology,France
+1176,QGEN.K,NL0012169213,Qiagen NV,Healthcare,Netherlands
+1177,RUAL.MM,RU000A1025V3,OK Rusal MKPAO,Basic Materials,Russia
+1178,HR,US4219461047,Healthcare Realty Trust Inc,Real Estate,USA
+1179,ESTE.K,US27032D3044,Earthstone Energy Inc,Energy,USA
+1180,KSP.I,IE0004927939,Kingspan Group PLC,Consumer Cyclicals,Ireland
+1181,TX,US8808901081,Ternium SA,Basic Materials,Luxembourg
+1182,AEP.O,US0255371017,American Electric Power Company Inc,Utilities,USA
+1183,MICP.PA,FR0000121261,Compagnie Generale des Etablissements Michelin SCA,Consumer Cyclicals,France
+1184,TLW.L,GB0001500809,Tullow Oil PLC,Energy,United Kingdom
+1185,GYC.DE,LU0775917882,Grand City Properties SA,Real Estate,Luxembourg
+1186,ABG.MC,ES0105200416,Abengoa SA,Industrials,Spain
+1187,AUTON.S,CH0127480363,Autoneum Holding AG,Consumer Cyclicals,Switzerland
+1188,ALB,US0126531013,Albemarle Corp,Basic Materials,USA
+1189,ESRT.K,US2921041065,Empire State Realty Trust Inc,Real Estate,USA
+1190,ORNBV.HE,FI0009014377,Orion Oyj,Healthcare,Finland
+1191,MTCM.MI,IT0004931058,Maire Tecnimont SpA,Industrials,Italy
+1192,BOOM.O,US23291C1036,DMC Global Inc,Energy,USA
+1193,SYY,US8718291078,Sysco Corp,Consumer Non-Cyclicals,USA
+1194,URW.AS,FR0013326246,Unibail-Rodamco-Westfield SE,Real Estate,France
+1195,TRE.MC,ES0178165017,Tecnicas Reunidas SA,Energy,Spain
+1196,WIHL.ST,SE0011205194,Wihlborgs Fastigheter AB,Real Estate,Sweden
+1197,DNORD.CO,DK0060083210,Dampskibsselskabet Norden A/S,Industrials,Denmark
+1198,WAFGn.DE,DE000WAF3001,Siltronic AG,Technology,Germany
+1199,AA,US0138721065,Alcoa Corp,Basic Materials,USA
+1200,ALLN.S,CH0008837566,Allreal Holding AG,Real Estate,Switzerland
+1201,AIR.PA,NL0000235190,Airbus SE,Industrials,Netherlands
+1202,PVH,US6936561009,PVH Corp,Consumer Cyclicals,USA
+1203,SAIC.K,US8086251076,Science Applications International Corp,Technology,USA
+1204,KGX.DE,DE000KGX8881,Kion Group AG,Industrials,Germany
+1205,NKT.CO,DK0010287663,NKT A/S,Industrials,Denmark
+1206,TPE.WA,PLTAURN00011,Tauron Polska Energia SA,Utilities,Poland
+1207,HMb.ST,SE0000106270,H & M Hennes & Mauritz AB,Consumer Cyclicals,Sweden
+1208,CWENa.K,US18539C1053,Clearway Energy Inc,Utilities,USA
+1209,KYGa.I,IE0004906560,Kerry Group PLC,Consumer Non-Cyclicals,Ireland
+1210,RXN,US76169B1026,Zurn Water Solutions Corp,Industrials,USA
+1211,ADP.O,US0530151036,Automatic Data Processing Inc,Technology,USA
+1212,AIXGn.DE,DE000A0WMPJ6,Aixtron SE,Technology,Germany
+1213,ADSK.O,US0527691069,Autodesk Inc,Technology,USA
+1214,HLCL.L,GB00B0FYMT95,Helical PLC,Real Estate,United Kingdom
+1215,TYMN.L,GB00B29H4253,Tyman PLC,Consumer Cyclicals,United Kingdom
+1216,COP,US20825C1045,Conocophillips,Energy,USA
+1217,ATI,US01741R1023,Allegheny Technologies Inc,Basic Materials,USA
+1218,CTLT.K,US1488061029,Catalent Inc,Healthcare,USA
+1219,WKP.L,GB00B67G5X01,Workspace Group PLC,Real Estate,United Kingdom
+1220,ACLS.O,US0545402085,Axcelis Technologies Inc,Technology,USA
+1221,NEX.L,GB0006215205,National Express Group PLC,Industrials,United Kingdom
+1222,HASI.K,US41068X1000,Hannon Armstrong Sustainable Infrastructure Capital Inc,Real Estate,USA
+1223,CLI,US5544891048,Mack-Cali Realty Corp,Real Estate,USA
+1224,CTT.LS,PTCTT0AM0001,CTT Correios de Portugal SA,Industrials,Portugal
+1225,OVV,US69047Q1022,Ovintiv Inc,Energy,USA
+1226,NEE,US65339F1012,Nextera Energy Inc,Utilities,USA
+1227,GARO.ST,SE0015812417,Garo AB,Industrials,Sweden
+1228,FORT.L,GB00BYYW3C20,Forterra PLC,Basic Materials,United Kingdom
+1229,NOVN.S,CH0012005267,Novartis AG,Healthcare,Switzerland
+1230,DRWG.DE,DE0005550602,Draegerwerk AG & Co KGaA,Healthcare,Germany
+1231,GVNV.AS,NL0010937066,Grandvision NV,Consumer Cyclicals,Netherlands
+1232,WAT,US9418481035,Waters Corp,Healthcare,USA
+1233,SPGP.CO,DK0061027356,SP Group A/S,Basic Materials,Denmark
+1234,NTAP.O,US64110D1046,NetApp Inc,Technology,USA
+1235,TSCO.O,US8923561067,Tractor Supply Co,Consumer Cyclicals,USA
+1236,MAB.L,GB00B1FP6H53,Mitchells & Butlers PLC,Consumer Cyclicals,United Kingdom
+1237,TRMB.O,US8962391004,Trimble Inc,Technology,USA
+1238,SMPV.VI,AT0000785555,Semperit AG Holding,Consumer Cyclicals,Austria
+1239,EVRE.L,GB00B71N6K86,EVRAZ plc,Basic Materials,United Kingdom
+1240,IETB.BR,BE0974259880,D'Ieteren Group NV,Consumer Cyclicals,Belgium
+1241,TECN.S,CH0012100191,Tecan Group AG,Technology,Switzerland
+1242,AMD.O,US0079031078,Advanced Micro Devices Inc,Technology,USA
+1243,MDU,US5526901096,MDU Resources Group Inc,Utilities,USA
+1244,CHD,US1713401024,Church & Dwight Co Inc,Consumer Non-Cyclicals,USA
+1245,RWAY.MI,IT0005054967,Rai Way SpA,Consumer Cyclicals,Italy
+1246,BBY,US0865161014,Best Buy Co Inc,Consumer Cyclicals,USA
+1247,ASELS.IS,TRAASELS91H2,Aselsan Elektronik Sanayi ve Ticaret AS,Industrials,Turkey
+1248,MOCORP.HE,FI0009014575,Metso Outotec Corp,Industrials,Finland
+1249,KGH.WA,PLKGHM000017,KGHM Polska Miedz SA,Basic Materials,Poland
+1250,TRN.MI,IT0003242622,Terna Rete Elettrica Nazionale SpA,Utilities,Italy
+1251,STLD.O,US8581191009,Steel Dynamics Inc,Basic Materials,USA
+1252,BEIAb.ST,SE0011090547,Beijer Alma AB,Industrials,Sweden
+1253,PHARP.L,GB00B572ZV91,Pharos Energy PLC,Energy,United Kingdom
+1254,CMP,US20451N1019,Compass Minerals International Inc,Basic Materials,USA
+1255,LANDI.S,CH0371153492,Landis+Gyr Group AG,Industrials,Switzerland
+1256,AMG.AS,NL0000888691,AMG Advanced Metallurgical Group NV,Basic Materials,Netherlands
+1257,HRI,US42704L1044,Herc Holdings Inc,Industrials,USA
+1258,BAKK.L,GB00BF8J3Z99,Bakkavor Group Plc,Consumer Non-Cyclicals,United Kingdom
+1259,FAG.ST,SE0010048884,Fagerhult AB,Consumer Cyclicals,Sweden
+1260,AFXG.DE,DE0005313704,Carl Zeiss Meditec AG,Healthcare,Germany
+1261,HBR.L,GB00BMBVGQ36,Harbour Energy PLC,Energy,United Kingdom
+1262,OKDBV.HE,FI0009014351,Oriola Oyj,Consumer Non-Cyclicals,Finland
+1263,AVYA.K,US05351X1019,Avaya Holdings Corp,Technology,USA
+1264,VIE.PA,FR0000124141,Veolia Environnement SA,Utilities,France
+1265,PANDXb.ST,SE0007100359,Pandox AB,Consumer Cyclicals,Sweden
+1266,TET.L,GB00BKS7YK08,Treatt PLC,Consumer Non-Cyclicals,United Kingdom
+1267,PCH.O,US7376301039,Potlatchdeltic Corp,Real Estate,USA
+1268,SRP.L,GB0007973794,Serco Group PLC,Industrials,United Kingdom
+1269,FREG.DE,DE0005785604,Fresenius SE & Co KGaA,Healthcare,Germany
+1270,GTYH.O,US3624091043,Gty Technology Holdings Inc,Technology,USA
+1271,AMGN.O,US0311621009,Amgen Inc,Healthcare,USA
+1272,NEM,US6516391066,Newmont Corporation,Basic Materials,USA
+1273,MGAMM.L,GB0006027295,Morgan Advanced Materials PLC,Industrials,United Kingdom
+1274,AMZN.O,US0231351067,Amazon.com Inc,Consumer Cyclicals,USA
+1275,PGE.WA,PLPGER000010,PGE Polska Grupa Energetyczna SA,Utilities,Poland
+1276,SPGI.K,US78409V1044,S&P Global Inc,Industrials,USA
+1277,GFCP.PA,FR0010040865,Gecina SA,Real Estate,France
+1278,KGF.L,GB0033195214,Kingfisher PLC,Consumer Cyclicals,United Kingdom
+1279,MOD,US6078281002,Modine Manufacturing Co,Consumer Cyclicals,USA
+1280,GRBT.PA,FR0000032526,Guerbet SA,Healthcare,France
+1281,SFZN.S,CH0014284498,Siegfried Holding AG,Healthcare,Switzerland
+1282,RL,US7512121010,Ralph Lauren Corp,Consumer Cyclicals,USA
+1283,NKE,US6541061031,Nike Inc,Consumer Cyclicals,USA
+1284,MDCM.L,GB00B8HX8Z88,Mediclinic International PLC,Healthcare,United Kingdom
+1285,ITRK.L,GB0031638363,Intertek Group PLC,Industrials,United Kingdom
+1286,EXC.O,US30161N1019,Exelon Corp,Utilities,USA
+1287,AAK.ST,SE0011337708,AAK AB (publ),Consumer Non-Cyclicals,Sweden
+1288,NRRT.L,GB00BD7XPJ64,Newriver Reit PLC,Real Estate,United Kingdom
+1289,VOD.L,GB00BH4HKS39,Vodafone Group PLC,Technology,United Kingdom
+1290,ACN,IE00B4BNMY34,Accenture PLC,Technology,Ireland
+1291,AUBT.PA,FR0000063737,Aubay SA,Technology,France
+1292,F,US3453708600,Ford Motor Co,Consumer Cyclicals,USA
+1293,MMHM.L,GB00BVYB2Q58,Marshall Motor Holdings PLC,Consumer Cyclicals,United Kingdom
+1294,DE,US2441991054,Deere & Co,Industrials,USA
+1295,WPP.L,JE00B8KF9B49,WPP PLC,Consumer Cyclicals,United Kingdom
+1296,SDFGn.DE,DE000KSAG888,K&S AG,Basic Materials,Germany
+1297,BIOGb.ST,SE0000470395,Biogaia AB,Healthcare,Sweden
+1298,GMKN.MM,RU0007288411,GMK Noril'skiy Nikel' PAO,Basic Materials,Russia
+1299,MCHP.O,US5950171042,Microchip Technology Inc,Technology,USA
+1300,PRY.MI,IT0004176001,Prysmian SpA,Industrials,Italy
+1301,BOY.L,GB00B3FLWH99,Bodycote PLC,Industrials,United Kingdom
+1302,SKISb.ST,SE0012141687,SkiStar AB,Consumer Cyclicals,Sweden
+1303,ELM.L,GB0002418548,Elementis PLC,Basic Materials,United Kingdom
+1304,MRL.MC,ES0105025003,MERLIN Properties SOCIMI SA,Real Estate,Spain
+1305,THS,US89469A1043,TreeHouse Foods Inc,Consumer Non-Cyclicals,USA
+1306,PRMW.TO,CA74167P1080,Primo Water Corp (MISSISSAUGA),Consumer Non-Cyclicals,USA
+1307,NI,US65473P1057,NiSource Inc,Utilities,USA
+1308,RR.L,GB00B63H8491,Rolls-Royce Holdings PLC,Industrials,United Kingdom
+1309,CAPCC.L,GB00B62G9D36,Capital & Counties Properties PLC,Real Estate,United Kingdom
+1310,DIDA.MC,ES0126775032,Distribuidora Internacional de Alimentacion SA,Consumer Non-Cyclicals,Spain
+1311,FANG.O,US25278X1090,Diamondback Energy Inc,Energy,USA
+1312,MO,US02209S1033,Altria Group Inc,Consumer Non-Cyclicals,USA
+1313,MDM.PA,FR0013153541,Maisons du Monde SA,Consumer Cyclicals,France
+1314,1910.HK,LU0633102719,Samsonite International SA,Consumer Cyclicals,Luxembourg
+1315,FOUR.L,GB0006640972,4imprint Group PLC,Consumer Cyclicals,United Kingdom
+1316,LIN,IE00BZ12WP82,Linde PLC,Basic Materials,United Kingdom
+1317,IRM,US46284V1017,Iron Mountain Inc,Real Estate,USA
+1318,NATI.O,US6365181022,National Instruments Corp,Technology,USA
+1319,AKSA.IS,TRAAKSAW91E1,Aksa Akrilik Kimya Sanayii AS,Consumer Cyclicals,Turkey
+1320,RMR.O,US74967R1068,RMR Group Inc,Real Estate,USA
+1321,RYAM.K,US75508B1044,Rayonier Advanced Materials Inc,Basic Materials,USA
+1322,OPAr.AT,GRS419003009,Greek Organisation of Football Prognostics SA,Consumer Cyclicals,Greece
+1323,LECO.O,US5339001068,Lincoln Electric Holdings Inc,Industrials,USA
+1324,DHER.DE,DE000A2E4K43,Delivery Hero SE,Technology,Germany
+1325,BULTEN.ST,SE0003849223,Bulten AB,Consumer Cyclicals,Sweden
+1326,VEI.OL,NO0005806802,Veidekke ASA,Industrials,Norway
+1327,LTSP.WA,PLLOTOS00025,Grupa Lotos SA,Energy,Poland
+1328,APEI.O,US02913V1035,American Public Education Inc,Academic & Educational Services,USA
+1329,CTSH.O,US1924461023,Cognizant Technology Solutions Corp,Technology,USA
+1330,CKN.L,GB0002018363,Clarkson PLC,Industrials,United Kingdom
+1331,BORY.WA,PLBRSZW00011,Boryszew SA,Basic Materials,Poland
+1332,TSLA.O,US88160R1014,Tesla Inc,Consumer Cyclicals,USA
+1333,MIDD.O,US5962781010,Middleby Corp,Consumer Cyclicals,USA
+1334,PLD,US74340W1036,Prologis Inc,Real Estate,USA
+1335,LEOGn.DE,DE0005408884,Leoni AG,Industrials,Germany
+1336,SBUX.O,US8552441094,Starbucks Corp,Consumer Cyclicals,USA
+1337,HSV.L,GB00BYYTFB60,HomeServe PLC,Consumer Non-Cyclicals,United Kingdom
+1338,UU.L,GB00B39J2M42,United Utilities Group PLC,Utilities,United Kingdom
+1339,WDAY.O,US98138H1014,Workday Inc,Technology,USA
+1340,GAMA.L,GB00BQS10J50,Gamma Communications PLC,Technology,United Kingdom
+1341,MACF.L,GB0005518872,Macfarlane Group PLC,Basic Materials,United Kingdom
+1342,PIA.MI,IT0003073266,Piaggio & C SpA,Consumer Cyclicals,Italy
+1343,GOOGL.O,US02079K3059,Alphabet Inc,Technology,USA
+1344,DICn.DE,DE000A1X3XX4,DIC Asset AG,Real Estate,Germany
+1345,TENG.L,GB00BF188X60,Ten Lifestyle Group PLC,Consumer Cyclicals,United Kingdom
+1346,TMST.K,US8873991033,TimkenSteel Corp,Basic Materials,USA
+1347,SPSN.S,CH0008038389,Swiss Prime Site AG,Real Estate,Switzerland
+1348,RBBN.O,US7625441040,Ribbon Communications Inc,Technology,USA
+1349,BIFF.L,GB00BD8DR117,Biffa PLC,Industrials,United Kingdom
+1350,LOGN.S,CH0025751329,Logitech International SA,Technology,Switzerland
+1351,SXS.L,GB0003308607,Spectris PLC,Technology,United Kingdom
+1352,PLOF.PA,FR0000124570,Compagnie Plastic Omnium SE,Consumer Cyclicals,France
+1353,ORSTED.CO,DK0060094928,Orsted A/S,Utilities,Denmark
+1354,MRK,US58933Y1055,Merck & Co Inc,Healthcare,USA
+1355,SANM.O,US8010561020,Sanmina Corp,Technology,USA
+1356,SNR.L,GB0007958233,Senior PLC,Industrials,United Kingdom
+1357,SISE.IS,TRASISEW91Q3,Turkiye Sise ve Cam Fabrikalari AS,Consumer Non-Cyclicals,Turkey
+1358,IRDM.O,US46269C1027,Iridium Communications Inc,Technology,USA
+1359,AMBUb.CO,DK0060946788,Ambu A/S,Healthcare,Denmark
+1360,LOOMIS.ST,SE0014504817,Loomis AB,Industrials,Sweden
+1361,CRDA.L,GB00BJFFLV09,Croda International PLC,Basic Materials,United Kingdom
+1362,DEI,US25960P1093,Douglas Emmett Inc,Real Estate,USA
+1363,HIK.L,GB00B0LCW083,Hikma Pharmaceuticals PLC,Healthcare,United Kingdom
+1364,AO.L,GB00BJTNFH41,AO World PLC,Consumer Cyclicals,United Kingdom
+1365,ORCL.K,US68389X1054,Oracle Corp,Technology,USA
+1366,APPS.MC,ES0105022000,Applus Services SA,Industrials,Spain
+1367,PUMG.DE,DE0006969603,Puma SE,Consumer Cyclicals,Germany
+1368,NLMK.MM,RU0009046452,Novolipetsk Steel PAO,Basic Materials,Russia
+1369,RENE.LS,PTREL0AM0008,Ren Redes Energeticas Nacionais SGPS SA,Utilities,Portugal
+1370,BKNG.O,US09857L1089,Booking Holdings Inc,Consumer Cyclicals,USA
+1371,TEL,CH0102993182,TE Connectivity Ltd,Industrials,Switzerland
+1372,AVT.O,US0538071038,Avnet Inc,Technology,USA
+1373,REL.L,GB00B2B0DG97,Relx PLC,Industrials,United Kingdom
+1374,TMUS.O,US8725901040,T-Mobile US Inc,Technology,USA
+1375,KCRA.HE,FI0009005870,Konecranes Abp,Industrials,Finland
+1376,MOTA.LS,PTMEN0AE0005,Mota Engil SGPS SA,Industrials,Portugal
+1377,LDO.MI,IT0001055521,La Doria SpA,Consumer Non-Cyclicals,Italy
+1378,SCCO.K,US84265V1052,Southern Copper Corp,Basic Materials,USA
+1379,AAP,US00751Y1064,Advance Auto Parts Inc,Consumer Cyclicals,USA
+1380,COREa.ST,SE0010714279,Corem Property Group AB,Real Estate,Sweden
+1381,LHAG.DE,DE0008232125,Deutsche Lufthansa AG,Industrials,Germany
+1382,SPX.L,GB00BWFGQN14,Spirax-Sarco Engineering PLC,Industrials,United Kingdom
+1383,SGREN.MC,ES0143416115,Siemens Gamesa Renewable Energy SA,Energy,Spain
+1384,STVG.L,GB00B3CX3644,STV Group PLC,Consumer Cyclicals,United Kingdom
+1385,PYPL.O,US70450Y1038,PayPal Holdings Inc,Technology,USA
+1386,SCS,US8581552036,Steelcase Inc,Industrials,USA
+1387,KLR.L,GB0004866223,Keller Group PLC,Industrials,United Kingdom
+1388,SPIE.PA,FR0012757854,Spie SA,Industrials,France
+1389,ECEL.L,GB00BVV2KN49,Eurocell PLC,Consumer Cyclicals,United Kingdom
+1390,MAA,US59522J1034,Mid-America Apartment Communities Inc,Real Estate,USA
+1391,STP.WA,PLSTLPD00017,Stalprodukt SA,Basic Materials,Poland
+1392,BMWG.DE,DE0005190003,Bayerische Motoren Werke AG,Consumer Cyclicals,Germany
+1393,AGL.MI,IT0001137345,Autogrill SpA,Consumer Cyclicals,Italy
+1394,EPC,US28035Q1022,Edgewell Personal Care Co,Consumer Non-Cyclicals,USA
+1395,BSX,US1011371077,Boston Scientific Corp,Healthcare,USA
+1396,GIVN.S,CH0010645932,Givaudan SA,Basic Materials,Switzerland
+1397,MSFT.O,US5949181045,Microsoft Corp,Technology,USA
+1398,TEG.L,GB00BF020D33,Ten Entertainment Group PLC,Consumer Cyclicals,United Kingdom
+1399,NESTE.HE,FI0009013296,Neste Oyj,Energy,Finland
+1400,DRI,US2371941053,Darden Restaurants Inc,Consumer Cyclicals,USA
+1401,HYDR.MM,RU000A0JPKH7,Federal Hydro-Generating Company RusHydro PAO,Utilities,Russia
+1402,ZEN,US98936J1016,Zendesk Inc,Technology,USA
+1403,UTG.L,GB0006928617,Unite Group PLC,Real Estate,United Kingdom
+1404,URI,US9113631090,United Rentals Inc,Industrials,USA
+1405,BOOT.L,GB0001110096,Henry Boot PLC,Industrials,United Kingdom
+1406,MRVL.O,US5738741041,Marvell Technology Inc,Technology,USA
+1407,ULKER.IS,TREULKR00015,Ulker Biskuvi Sanayi AS,Consumer Non-Cyclicals,Turkey
+1408,CVO.PA,FR0000064578,Covivio SA,Real Estate,France
+1409,FLS.CO,DK0010234467,Flsmidth & Co A/S,Basic Materials,Denmark
+1410,BP.L,GB0007980591,BP PLC,Energy,United Kingdom
+1411,EPR.OL,NO0010735343,Europris ASA,Consumer Cyclicals,Norway
+1412,EVNV.VI,AT0000741053,EVN AG,Utilities,Austria
+1413,WRT1V.HE,FI0009003727,Wartsila Oyj Abp,Consumer Non-Cyclicals,Finland
+1414,ETD,US2976021046,Ethan Allen Interiors Inc,Consumer Cyclicals,USA
+1415,GE,US3696043013,General Electric Co,Consumer Non-Cyclicals,USA
+1416,ONTEX.BR,BE0974276082,Ontex Group NV,Consumer Non-Cyclicals,Belgium
+1417,CBRE.K,US12504L1098,CBRE Group Inc,Real Estate,USA
+1418,MKC,US5797802064,McCormick & Company Inc,Consumer Non-Cyclicals,USA
+1419,PUBP.PA,FR0000130577,Publicis Groupe SA,Consumer Cyclicals,France
+1420,EXHO.PA,FR0000121220,Sodexo SA,Consumer Cyclicals,France
+1421,DTEGn.DE,DE0005557508,Deutsche Telekom AG,Technology,Germany
+1422,SRNKEb.ST,SE0007278841,SERNEKE Group AB (publ),Industrials,Sweden
+1423,KID.OL,NO0010743545,Kid ASA,Consumer Cyclicals,Norway
+1424,AAL.L,GB00B1XZS820,Anglo American PLC,Basic Materials,United Kingdom
+1425,BITTI.HE,FI0009007264,Bittium Oyj,Technology,Finland
+1426,MTX,US6031581068,Minerals Technologies Inc,Basic Materials,USA
+1427,TIGO.O,LU0038705702,Millicom International Cellular SA,Technology,Luxembourg
+1428,ESKN.L,GB00B03HDJ73,Esken Ltd,Energy,United Kingdom
+1429,RXL.PA,FR0010451203,Rexel SA,Industrials,France
+1430,ETL.PA,FR0010221234,Eutelsat Communications SA,Technology,France
+1431,SAND.ST,SE0000667891,Sandvik AB,Industrials,Sweden
+1432,PROX.BR,BE0003810273,Proximus NV,Technology,Belgium
+1433,ACT1k.DE,DE000A2YNT30,AlzChem Group AG,Basic Materials,Germany
+1434,MGRC.O,US5805891091,McGrath RentCorp,Industrials,USA
+1435,ZALG.DE,DE000ZAL1111,Zalando SE,Consumer Cyclicals,Germany
+1436,MORr.AT,GRS426003000,Motor Oil Hellas Corinth Refineries SA,Energy,Greece
+1437,KNIN.S,CH0025238863,Kuehne und Nagel International AG,Industrials,Switzerland
+1438,X,US9129091081,United States Steel Corp,Basic Materials,USA
+1439,SIBN.MM,RU0009062467,Gazprom Neft' PAO,Energy,Russia
+1440,STMN.S,CH0012280076,Straumann Holding AG,Healthcare,Switzerland
+1441,ICAD.PA,FR0000035081,Icade SA,Real Estate,France
+1442,PH,US7010941042,Parker-Hannifin Corp,Industrials,USA
+1443,ARDS.AS,NL0006237562,Arcadis NV,Industrials,Netherlands
+1444,HUR.L,GB00B580MF54,Hurricane Energy PLC,Energy,United Kingdom
+1445,SKT,US8754651060,Tanger Factory Outlet Centers Inc,Real Estate,USA
+1446,LTGL.L,GB00B4T7HX10,Learning Technologies Group PLC,Academic & Educational Services,United Kingdom
+1447,CFR.S,CH0210483332,Compagnie Financiere Richemont SA,Consumer Cyclicals,Switzerland
+1448,SRE,US8168511090,Sempra Energy,Utilities,USA
+1449,OCI.AS,NL0010558797,OCI NV,Basic Materials,Netherlands
+1450,1COV.DE,DE0006062144,Covestro AG,Basic Materials,Germany
+1451,PRIF.BR,BE0003746600,Intervest Offices & Warehouses NV,Real Estate,Belgium
+1452,CIMSA.IS,TRACIMSA91F9,Cimsa Cimento Sanayi ve Ticaret AS,Basic Materials,Turkey
+1453,TKR,US8873891043,Timken Co,Industrials,USA
+1454,IBAB.BR,BE0003766806,Ion Beam Applications SA,Healthcare,Belgium
+1455,ORK.OL,NO0003733800,Orkla ASA,Consumer Non-Cyclicals,Norway
+1456,MDP,US5894331017,Meredith Corp,Consumer Cyclicals,USA
+1457,PLCE.O,US1689051076,Children's Place Inc,Consumer Cyclicals,USA
+1458,BALF.L,GB0000961622,Balfour Beatty PLC,Industrials,United Kingdom
+1459,PPH.L,GG00B1Z5FH87,PPHE Hotel Group Ltd,Consumer Cyclicals,Netherlands
+1460,GLTRq.L,US37949E2046,Globaltrans Investment PLC,Industrials,Cyprus
+1461,KE.O,US49428J1097,Kimball Electronics Inc,Technology,USA
+1462,MAERSKb.CO,DK0010244508,AP Moeller - Maersk A/S,Industrials,Denmark
+1463,A2.MI,IT0001233417,A2A SpA,Utilities,Italy
+1464,ETR,US29364G1031,Entergy Corp,Utilities,USA
+1465,TJX,US8725401090,TJX Companies Inc,Consumer Cyclicals,USA
+1466,UFS,US2575592033,Domtar Corp,Basic Materials,USA
+1467,DUFN.S,CH0023405456,Dufry AG,Consumer Cyclicals,Switzerland
+1468,JWN,US6556641008,Nordstrom Inc,Consumer Cyclicals,USA
+1469,AGNr.AT,GRS495003006,Aegean Airlines SA,Industrials,Greece
+1470,DPLM.L,GB0001826634,Diploma PLC,Industrials,United Kingdom
+1471,VRS,US92531L2079,Verso Corp,Basic Materials,USA
+1472,SUY1V.HE,FI0009010862,Suominen Oyj,Consumer Cyclicals,Finland
+1473,NSC,US6558441084,Norfolk Southern Corp,Industrials,USA
+1474,NIBEb.ST,SE0015988019,Nibe Industrier AB,Industrials,Sweden
+1475,HUFVa.ST,SE0000170375,Hufvudstaden AB,Real Estate,Sweden
+1476,DEHr.AT,GRS434003000,Public Power Corporation SA,Utilities,Greece
+1477,PRS.MC,ES0171743901,Promotora de Informaciones SA,Consumer Cyclicals,Spain
+1478,SOBIV.ST,SE0000872095,Swedish Orphan Biovitrum AB (publ),Healthcare,Sweden
+1479,CMI,US2310211063,Cummins Inc,Consumer Cyclicals,USA
+1480,HOLN.S,CH0012214059,Holcim AG,Basic Materials,Switzerland
+1481,BKR,US05722G1004,Baker Hughes Co,Energy,USA
+1482,CIRI.MI,IT0000070786,CIR SpA - Compagnie Industriali Riunite,Consumer Cyclicals,Italy
+1483,CARDC.L,GB00BLY2F708,Card Factory PLC,Consumer Cyclicals,United Kingdom
+1484,NLOK.O,US6687711084,NortonLifeLock Inc,Technology,USA
+1485,TTRAK.IS,TRETTRK00010,Turk Traktor ve Ziraat Makineleri AS,Industrials,Turkey
+1486,NCCG.L,GB00B01QGK86,NCC Group PLC,Technology,United Kingdom
+1487,AAL.O,US02376R1023,American Airlines Group Inc,Industrials,USA
+1488,CARLb.CO,DK0010181759,Carlsberg A/S,Consumer Non-Cyclicals,Denmark
+1489,LUV,US8447411088,Southwest Airlines Co,Industrials,USA
+1490,AOS,US8318652091,A O Smith Corp,Industrials,USA
+1491,CARR.PA,FR0000120172,Carrefour SA,Consumer Non-Cyclicals,France
+1492,APGN.S,CH0019107025,APG SGA SA,Consumer Cyclicals,Switzerland
+1493,NHH.MC,ES0161560018,NH Hotel Group SA,Consumer Cyclicals,Spain
+1494,EQR,US29476L1070,Equity Residential,Real Estate,USA
+1495,ATSV.VI,AT0000969985,AT & S Austria Technologie & Systemtechnik AG,Technology,Austria
+1496,RTKM.MM,RU0008943394,Rostelekom PAO,Technology,Russia
+1497,RSTI.MM,RU000A0JPVJ0,Rossiyskiye Seti PAO,Utilities,Russia
+1498,TW.L,GB0008782301,Taylor Wimpey PLC,Consumer Cyclicals,United Kingdom
+1499,ENAE.WA,PLENEA000013,Enea SA,Utilities,Poland
+1500,HON.O,US4385161066,Honeywell International Inc,Consumer Non-Cyclicals,USA
+1501,FLO,US3434981011,Flowers Foods Inc,Consumer Non-Cyclicals,USA
+1502,DIOR.PA,FR0000130403,Christian Dior SE,Consumer Cyclicals,France
+1503,ANSY.L,GB0002684552,Andrews Sykes Group PLC,Industrials,United Kingdom
+1504,PCAR.O,US6937181088,Paccar Inc,Industrials,USA
+1505,VIV.PA,FR0000127771,Vivendi SE,Consumer Cyclicals,France
+1506,PORV.L,GB0006963689,Porvair PLC,Industrials,United Kingdom
+1507,SPWR.O,US8676524064,SunPower Corp,Energy,USA
+1508,BRBY.L,GB0031743007,Burberry Group PLC,Consumer Cyclicals,United Kingdom
+1509,TMO,US8835561023,Thermo Fisher Scientific Inc,Healthcare,USA
+1510,CWT,US1307881029,California Water Service Group,Utilities,USA
+1511,EOG,US26875P1012,EOG Resources Inc,Energy,USA
+1512,ESI,US28618M1062,Element Solutions Inc,Basic Materials,USA
+1513,HEIO.AS,NL0000008977,Heineken Holding NV,Consumer Non-Cyclicals,Netherlands
+1514,SALM.OL,NO0010310956,SalMar ASA,Consumer Non-Cyclicals,Norway
+1515,SM,US78454L1008,SM Energy Co,Energy,USA
+1516,WCHG.DE,DE000WCH8881,Wacker Chemie AG,Basic Materials,Germany
+1517,PALF.VI,AT0000758305,Palfinger AG,Industrials,Austria
+1518,MHK,US6081901042,Mohawk Industries Inc,Consumer Cyclicals,USA
+1519,ZBH,US98956P1021,Zimmer Biomet Holdings Inc,Healthcare,USA
+1520,PETSP.L,GB00BJ62K685,Pets at Home Group PLC,Consumer Cyclicals,United Kingdom
+1521,BMY,US1101221083,Bristol-Myers Squibb Co,Healthcare,USA
+1522,FFARM.AS,NL0011832811,ForFarmers NV,Consumer Non-Cyclicals,Netherlands
+1523,NRS.OL,NO0010331838,Norway Royal Salmon ASA,Consumer Non-Cyclicals,Norway
+1524,ADI.O,US0326541051,Analog Devices Inc,Technology,USA
+1525,OXY,US6745991058,Occidental Petroleum Corp,Energy,USA
+1526,SESFd.PA,LU0088087324,SES SA,Technology,Luxembourg
+1527,TTG.L,GB0008711763,TT electronics PLC,Technology,United Kingdom
+1528,EUR.WA,PLEURCH00011,Eurocash SA,Consumer Non-Cyclicals,Poland
+1529,GLYHO.IS,TRAGLMDE91R3,Global Yatirim Holding AS,Industrials,Turkey
+1530,DANO.PA,FR0000120644,Danone SA,Consumer Non-Cyclicals,France
+1531,CLR,US2120151012,Continental Resources Inc,Energy,USA
+1532,FRT,US3137472060,Federal Realty Investment Trust,Real Estate,USA
+1533,ARBNO.S,CH0110240600,Arbonia AG,Consumer Cyclicals,Switzerland
+1534,ANET.K,US0404131064,Arista Networks Inc,Technology,USA
+1535,ASMI.AS,NL0000334118,ASM International NV,Technology,Netherlands
+1536,WYNN.O,US9831341071,Wynn Resorts Ltd,Consumer Cyclicals,USA
+1537,NESR.O,VGG6375R1073,National Energy Services Reunited Corp,Energy,USA
+1538,ZUMV.VI,AT0000837307,Zumtobel Group AG,Industrials,Austria
+1539,UHR.S,CH0012255151,Swatch Group AG,Consumer Cyclicals,Switzerland
+1540,INN,US8660821005,Summit Hotel Properties Inc,Real Estate,USA
+1541,ATOS.PA,FR0000051732,Atos SE,Technology,France
+1542,TTEF.PA,FR0000120271,TotalEnergies SE,Energy,France
+1543,SDRY.L,GB00B60BD277,Superdry PLC,Consumer Cyclicals,United Kingdom
+1544,OTTR.O,US6896481032,Otter Tail Corp,Utilities,USA
+1545,KRNG.DE,DE0006335003,Krones AG,Industrials,Germany
+1546,ITT,US45073V1089,ITT Inc,Industrials,USA
+1547,TROX.K,GB00BJT16S69,Tronox Holdings PLC,Basic Materials,USA
+1548,ABBN.S,CH0012221716,Abb Ltd,Industrials,Switzerland
+1549,ELE.MC,ES0130670112,Endesa SA,Utilities,Spain
+1550,AKA.PA,FR0004180537,Akka Technologies SE,Industrials,Belgium
+1551,VREX.O,US92214X1063,Varex Imaging Corp,Healthcare,USA
+1552,KIT.OL,NO0003079709,Kitron ASA,Technology,Norway
+1553,ERICb.ST,SE0000108656,Telefonaktiebolaget LM Ericsson,Technology,Sweden
+1554,TENR.MI,LU0156801721,Tenaris SA,Energy,Luxembourg
+1555,AGRORq.L,US7496552057,Ros Agro PLC,Consumer Non-Cyclicals,Cyprus
+1556,A,US00846U1016,Agilent Technologies Inc,Healthcare,USA
+1557,SAA1V.HE,FI0009007694,Sanoma Oyj,Consumer Cyclicals,Finland
+1558,VRTX.O,US92532F1003,Vertex Pharmaceuticals Inc,Healthcare,USA
+1559,BAX,US0718131099,Baxter International Inc,Healthcare,USA
+1560,HSC,US4158641070,Harsco Corp,Industrials,USA
+1561,MGROS.IS,TREMGTI00012,Migros Ticaret AS,Consumer Non-Cyclicals,Turkey
+1562,NLSN.K,GB00BWFY5505,Nielsen Holdings PLC,Consumer Cyclicals,USA
+1563,CAR.O,US0537741052,Avis Budget Group Inc,Industrials,USA
+1564,NAFG.DE,DE0006766504,Aurubis AG,Basic Materials,Germany
+1565,JM.ST,SE0000806994,JM AB,Consumer Cyclicals,Sweden
+1566,LYB,NL0009434992,LyondellBasell Industries NV,Basic Materials,United Kingdom
+1567,RTN.L,GB00B0YG1K06,Restaurant Group PLC,Consumer Cyclicals,United Kingdom
+1568,BANB.S,CH0012530207,Bachem Holding AG,Healthcare,Switzerland
+1569,MERY.PA,FR0010241638,Mercialys SA,Real Estate,France
+1570,SKFb.ST,SE0000108227,AB SKF,Industrials,Sweden
+1571,SZUG.DE,DE0007297004,Suedzucker AG,Consumer Non-Cyclicals,Germany
+1572,ROR.L,GB00BVFNZH21,Rotork PLC,Industrials,United Kingdom
+1573,VC.O,US92839U2069,Visteon Corp,Consumer Cyclicals,USA
+1574,ESNT.L,GB00B0744359,Essentra PLC,Basic Materials,United Kingdom
+1575,FRAG.DE,DE0005773303,Fraport AG Frankfurt Airport Services Worldwide,Industrials,Germany
+1576,SHOTE.ST,SE0007640156,Scandic Hotels Group AB,Consumer Cyclicals,Sweden
+1577,COLR.BR,BE0974256852,Etablissementen Franz Colruyt NV,Consumer Non-Cyclicals,Belgium
+1578,SDIPpref.ST,SE0006758348,Sdiptech AB (publ),Industrials,Sweden
+1579,JDW.L,GB0001638955,J D Wetherspoon PLC,Consumer Cyclicals,United Kingdom
+1580,TPB,US90041L1052,Turning Point Brands Inc,Consumer Non-Cyclicals,USA
+1581,EUCAR.PA,FR0012789949,Europcar Mobility Group SA,Industrials,France
+1582,LUN.CO,DK0010287234,H Lundbeck A/S,Healthcare,Denmark
+1583,CGCBV.HE,FI0009013429,Cargotec Corp,Industrials,Finland
+1584,ASIX.K,US00773T1016,AdvanSix Inc,Basic Materials,USA
+1585,WDC.O,US9581021055,Western Digital Corp,Technology,USA
+1586,PG,US7427181091,Procter & Gamble Co,Consumer Non-Cyclicals,USA
+1587,MSONb.ST,SE0000565228,Midsona AB,Consumer Non-Cyclicals,Sweden
+1588,MSI,US6200763075,Motorola Solutions Inc,Technology,USA
+1589,CRM,US79466L3024,Salesforce.Com Inc,Technology,USA
+1590,LPX,US5463471053,Louisiana-Pacific Corp,Basic Materials,USA
+1591,RIG,CH0048265513,Transocean Ltd,Energy,Switzerland
+1592,VTR,US92276F1003,Ventas Inc,Real Estate,USA
+1593,CASHP.MC,ES0105229001,Prosegur Cash SA,Industrials,Spain
+1594,ESP.L,GB00BLWDVR75,Empiric Student Property PLC,Real Estate,United Kingdom
+1595,LEGD.PA,FR0010307819,Legrand SA,Industrials,France
+1596,NXT.L,GB0032089863,Next PLC,Consumer Cyclicals,United Kingdom
+1597,GOG.L,GB0003753778,Go-Ahead Group PLC,Industrials,United Kingdom
+1598,DBG.PA,FR0000053381,Derichebourg SA,Industrials,France
+1599,GLV.I,IE00BD6JX574,Glenveagh Properties PLC,Consumer Cyclicals,Ireland
+1600,BIOX.PA,FR0013280286,Biomerieux SA,Healthcare,France
+1601,MORN.O,US6177001095,Morningstar Inc,Industrials,USA
+1602,IBST.L,GB00BYXJC278,Ibstock PLC,Basic Materials,United Kingdom
+1603,PNR,IE00BLS09M33,Pentair PLC,Industrials,United Kingdom
+1604,MEKO.ST,SE0002110064,Mekonomen AB,Consumer Cyclicals,Sweden
+1605,COLOb.CO,DK0060448595,Coloplast A/S,Healthcare,Denmark
+1606,BNZL.L,GB00B0744B38,Bunzl plc,Industrials,United Kingdom
+1607,BOLL.PA,FR0000039299,Bollore SE,Consumer Cyclicals,France
+1608,GAW.L,GB0003718474,Games Workshop Group PLC,Consumer Cyclicals,United Kingdom
+1609,COR,US21870Q1058,CoreSite Realty Corp,Real Estate,USA
+1610,WBD.MI,IT0003865570,Webuild SpA,Industrials,Italy
+1611,LISN.S,CH0010570759,Chocoladefabriken Lindt & Spruengli AG,Consumer Non-Cyclicals,Switzerland
+1612,NVTK.MM,RU000A0DKVS5,Novatek PAO,Energy,Russia
+1613,NOW,US81762P1021,ServiceNow Inc,Technology,USA
+1614,STM.PA,NL0000226223,STMicroelectronics NV,Technology,Switzerland
+1615,UNFI.K,US9111631035,United Natural Foods Inc,Consumer Non-Cyclicals,USA
+1616,NEXI.PA,FR0010112524,Nexity SA,Real Estate,France
+1617,SEAS.K,US81282V1008,SeaWorld Entertainment Inc,Consumer Cyclicals,USA
+1618,K,US4878361082,Kellogg Co,Consumer Non-Cyclicals,USA
+1619,ACCG.AS,NL0009767532,Accell Group NV,Consumer Cyclicals,Netherlands
+1620,PAYP.L,GB00B02QND93,PayPoint plc,Industrials,United Kingdom
+1621,NJR,US6460251068,New Jersey Resources Corp,Utilities,USA
+1622,CASP.PA,FR0000125585,Casino Guichard Perrachon SA,Consumer Non-Cyclicals,France
+1623,DIAL.L,GB0033057794,Dialight PLC,Industrials,United Kingdom
+1624,PTNL.AS,NL0009739416,PostNL NV,Industrials,Netherlands
+1625,GSFG.OL,NO0010365521,Grieg Seafood ASA,Consumer Non-Cyclicals,Norway
+1626,TYL,US9022521051,Tyler Technologies Inc,Technology,USA
+1627,NELES.HE,FI4000440664,Neles Oyj,Industrials,Finland
+1628,UCB.BR,BE0003739530,Ucb SA,Healthcare,Belgium
+1629,KBR,US48242W1062,KBR Inc,Technology,USA
+1630,OHLA.MC,ES0142090317,Obrascon Huarte Lain SA,Industrials,Spain
+1631,TETY.ST,SE0015949847,Tethys Oil AB,Energy,Sweden
+1632,GKSG.DE,DE0007571424,GK Software SE,Technology,Germany
+1633,WRK,US96145D1054,Westrock Co,Basic Materials,USA
+1634,ENKAI.IS,TREENKA00011,ENKA Insaat ve Sanayi AS,Industrials,Turkey
+1635,CNX,US12653C1080,CNX Resources Corp,Energy,USA
+1636,MCOVb.ST,SE0009778848,Medicover AB,Healthcare,Sweden
+1637,WG.L,GB00B5N0P849,John Wood Group PLC,Energy,United Kingdom
+1638,INF.L,GB00BMJ6DW54,Informa PLC,Consumer Cyclicals,United Kingdom
+1639,ALLE.K,IE00BFRT3W74,Allegion PLC,Technology,Ireland
+1640,HES,US42809H1077,Hess Corp,Energy,USA
+1641,WCC,US95082P1057,Wesco International Inc,Industrials,USA
+1642,AMPF.MI,IT0004056880,Amplifon SpA,Healthcare,Italy
+1643,THULE.ST,SE0006422390,Thule Group AB,Consumer Cyclicals,Sweden
+1644,MNDI.L,GB00B1CRLC47,Mondi PLC,Basic Materials,United Kingdom
+1645,VIRB.PA,FR0000031577,Virbac SA,Healthcare,France
+1646,BESI.AS,NL0012866412,BE Semiconductor Industries NV,Technology,Netherlands
+1647,KNOS.L,GB00BZ0D6727,Kainos Group PLC,Technology,United Kingdom
+1648,GETIb.ST,SE0000202624,Getinge AB,Healthcare,Sweden
+1649,CAML.L,GB00B67KBV28,Central Asia Metals PLC,Basic Materials,United Kingdom
+1650,LEGn.DE,DE000LEG1110,LEG Immobilien SE,Real Estate,Germany
+1651,MDT,IE00BTN1Y115,Medtronic PLC,Healthcare,Ireland
+1652,STX.O,IE00BKVD2N49,Seagate Technology Holdings PLC,Technology,Ireland
+1653,VNO,US9290421091,Vornado Realty Trust,Real Estate,USA
+1654,GPS,US3647601083,Gap Inc,Consumer Cyclicals,USA
+1655,ATR,US0383361039,Aptargroup Inc,Basic Materials,USA
+1656,TPT.L,GB00B18P5K83,Topps Tiles PLC,Consumer Cyclicals,United Kingdom
+1657,CCOLA.IS,TRECOLA00011,Coca-Cola Icecek AS,Consumer Non-Cyclicals,Turkey
+1658,AM.PA,FR0014004L86,Dassault Aviation SA,Industrials,France
+1659,OC,US6907421019,Owens Corning,Consumer Cyclicals,USA
+1660,ITRI.O,US4657411066,Itron Inc,Industrials,USA
+1661,FIS,US31620M1062,Fidelity National Information Services Inc,Technology,USA
+1662,DBD,US2536511031,Diebold Nixdorf Inc,Technology,USA
+1663,INGR.K,US4571871023,Ingredion Inc,Consumer Non-Cyclicals,USA
+1664,TOASO.IS,TRATOASO91H3,Tofas Turk Otomobil Fabrikasi AS,Consumer Cyclicals,Turkey
+1665,SFM.O,US85208M1027,Sprouts Farmers Market Inc,Consumer Non-Cyclicals,USA
+1666,SPXC.K,US7846351044,SPX Corp,Industrials,USA
+1667,PNDORA.CO,DK0060252690,Pandora A/S,Consumer Cyclicals,Denmark
+1668,ALE,US0185223007,ALLETE Inc,Utilities,USA
+1669,TDC,US88076W1036,Teradata Corp,Technology,USA
+1670,BALDb.ST,SE0000455057,Fastighets AB Balder,Real Estate,Sweden
+1671,DETEC.HE,FI4000115464,Detection Technology Oyj,Technology,Finland
+1672,CCC.L,GB00BV9FP302,Computacenter PLC,Technology,United Kingdom
+1673,EDF.PA,FR0010242511,Electricite de France SA,Utilities,France
+1674,ISN.S,CH0273774791,Intershop Holding AG,Real Estate,Switzerland
+1675,BPOST.BR,BE0974268972,Bpost SA,Industrials,Belgium
+1676,WDPP.BR,BE0974349814,Warehouses de Pauw NV,Real Estate,Belgium
+1677,CRST.L,GB00B8VZXT93,Crest Nicholson Holdings PLC,Consumer Cyclicals,United Kingdom
+1678,CVS,US1266501006,CVS Health Corp,Healthcare,USA
+1679,XIOR.BR,BE0974288202,Xior Student Housing NV,Real Estate,Belgium
+1680,HSIC.O,US8064071025,Henry Schein Inc,Healthcare,USA
+1681,WALLb.ST,SE0007074844,Wallenstam AB,Real Estate,Sweden
+1682,PNM,US69349H1077,PNM Resources Inc,Utilities,USA
+1683,TL5.MC,ES0152503035,Mediaset Espana Comunicacion SA,Consumer Cyclicals,Spain
+1684,SEBF.PA,FR0000121709,SEB SA,Consumer Cyclicals,France
+1685,IMI.L,GB00BGLP8L22,IMI PLC,Industrials,United Kingdom
+1686,BOSSn.DE,DE000A1PHFF7,Hugo Boss AG,Consumer Cyclicals,Germany
+1687,CI,US1255231003,Cigna Corp,Healthcare,USA
+1688,DLG.MI,IT0003115950,De' Longhi SpA,Consumer Cyclicals,Italy
+1689,HDDG.DE,DE0007314007,Heidelberger Druckmaschinen AG,Industrials,Germany
+1690,SMIN.L,GB00B1WY2338,Smiths Group PLC,Consumer Non-Cyclicals,United Kingdom
+1691,SPT.L,GB0004726096,Spirent Communications plc,Technology,United Kingdom
+1692,VZ,US92343V1044,Verizon Communications Inc,Technology,USA
+1693,EQN.L,GB00BYWWHR75,Equiniti Group PLC,Industrials,United Kingdom
+1694,SGCG.DE,DE0007235301,SGL Carbon SE,Basic Materials,Germany
+1695,KEMIRA.HE,FI0009004824,Kemira Oyj,Basic Materials,Finland
+1696,LMT,US5398301094,Lockheed Martin Corp,Industrials,USA
+1697,ALK,US0116591092,Alaska Air Group Inc,Industrials,USA
+1698,DUK,US26441C2044,Duke Energy Corp,Utilities,USA
+1699,PFE,US7170811035,Pfizer Inc,Healthcare,USA
+1700,UNP,US9078181081,Union Pacific Corp,Industrials,USA
+1701,ELUXb.ST,SE0016589188,Electrolux AB,Consumer Cyclicals,Sweden
+1702,G1AG.DE,DE0006602006,GEA Group AG,Industrials,Germany
+1703,CORB.AS,NL0010583399,Corbion NV,Basic Materials,Netherlands
+1704,SPI.L,GB00BNLPYF73,Spire Healthcare Group PLC,Healthcare,United Kingdom
+1705,MAT.O,US5770811025,Mattel Inc,Consumer Cyclicals,USA
+1706,ECM.L,GB0003096442,Electrocomponents PLC,Technology,United Kingdom
+1707,ROVI.MC,ES0157261019,Laboratorios Farmaceuticos ROVI SA,Healthcare,Spain
+1708,CLTN.S,CH0025343259,Coltene Holding AG,Healthcare,Switzerland
+1709,MAGN.MM,RU0009084396,Magnitogorskiy Metallurgicheskiy Kombinat PAO,Basic Materials,Russia
+1710,SKBG.DE,DE0007193500,Koenig & Bauer AG,Industrials,Germany
+1711,AMAT.O,US0382221051,Applied Materials Inc,Technology,USA
+1712,MOED.MI,IT0001469383,Arnoldo Mondadori Editore SpA,Consumer Cyclicals,Italy
+1713,KAI,US48282T1043,Kadant Inc,Industrials,USA
+1714,UTDI.DE,DE0005089031,United Internet AG,Technology,Germany
+1715,EQT,US26884L1098,EQT Corp,Energy,USA
+1716,HWDN.L,GB0005576813,Howden Joinery Group PLC,Consumer Cyclicals,United Kingdom
+1717,DEQGn.DE,DE0007480204,Deutsche Euroshop AG,Real Estate,Germany
+1718,FORM.O,US3463751087,FormFactor Inc,Technology,USA
+1719,ADP.PA,FR0010340141,Aeroports de Paris SA,Industrials,France
+1720,DOX.O,GB0022569080,Amdocs Ltd,Technology,USA
+1721,CHCH.L,GB0001961035,Churchill China PLC,Consumer Cyclicals,United Kingdom
+1722,FSJ.L,GB0003395000,James Fisher and Sons PLC,Industrials,United Kingdom
+1723,ADEN.S,CH0012138605,Adecco Group AG,Industrials,Switzerland
+1724,FDS,US3030751057,Factset Research Systems Inc,Industrials,USA
+1725,DAE.S,CH0030486770,Daetwyler Holding AG,Consumer Cyclicals,Switzerland
+1726,LONN.S,CH0013841017,Lonza Group AG,Healthcare,Switzerland
+1727,REGN.O,US75886F1075,Regeneron Pharmaceuticals Inc,Healthcare,USA
+1728,ELANb.ST,SE0000119299,Elanders AB,Industrials,Sweden
+1729,CNHI.MI,NL0010545661,CNH Industrial NV,Industrials,United Kingdom
+1730,VTC.L,GB0009296665,Vitec Group Plc,Technology,United Kingdom
+1731,ZOT.MC,ES0184933812,Zardoya Otis SA,Industrials,Spain
+1732,IPG,US4606901001,Interpublic Group of Companies Inc,Consumer Cyclicals,USA
+1733,AVB,US0534841012,Avalonbay Communities Inc,Real Estate,USA
+1734,HT,US4278255009,Hersha Hospitality Trust,Real Estate,USA
+1735,GNTX.O,US3719011096,Gentex Corp,Consumer Cyclicals,USA
+1736,AKW.PA,FR0000053027,Akwel SA,Consumer Cyclicals,France
+1737,CHTR.O,US16119P1084,Charter Communications Inc,Technology,USA
+1738,CHRH.CO,DK0060227585,Chr Hansen Holding A/S,Consumer Non-Cyclicals,Denmark
+1739,BATS.L,GB0002875804,British American Tobacco PLC,Consumer Non-Cyclicals,United Kingdom
+1740,LZB,US5053361078,La-Z-Boy Inc,Consumer Cyclicals,USA
+1741,VMC,US9291601097,Vulcan Materials Co,Basic Materials,USA
+1742,AFRNA.L,GB00B013SN63,Aferian PLC,Technology,United Kingdom
+1743,BDX,US0758871091,Becton Dickinson and Co,Healthcare,USA
+1744,REDD.L,GB00B41H7391,Redde Northgate PLC,Industrials,United Kingdom
+1745,KSU,US4851703029,Kansas City Southern,Industrials,USA
+1746,PURP.L,GB00BYV2MV74,Purplebricks Group PLC,Real Estate,United Kingdom
+1747,OCDO.L,GB00B3MBS747,Ocado Group PLC,Consumer Cyclicals,United Kingdom
+1748,ST5G.DE,DE000A0LR936,Steico SE,Basic Materials,Germany
+1749,SGRO.L,GB00B5ZN1N88,SEGRO PLC,Real Estate,United Kingdom
+1750,ADM,US0394831020,Archer-Daniels-Midland Co,Consumer Non-Cyclicals,USA
+1751,LDOF.MI,IT0003856405,Leonardo SpA,Industrials,Italy
+1752,TEPRF.PA,FR0000051807,Teleperformance SE,Industrials,France
+1753,AME,US0311001004,AMETEK Inc,Industrials,USA
+1754,SOI,US83418M1036,Solaris Oilfield Infrastructure Inc,Energy,USA
+1755,KOG.OL,NO0003043309,Kongsberg Gruppen ASA,Industrials,Norway
+1756,VNTR.K,GB00BF3ZNS54,Venator Materials PLC,Basic Materials,United Kingdom
+1757,FCX,US35671D8570,Freeport-McMoRan Inc,Basic Materials,USA
+1758,OLPr.AT,GRS470003013,Piraeus Port Authority SA,Industrials,Greece
+1759,HPE,US42824C1099,Hewlett Packard Enterprise Co,Technology,USA
+1760,BOOZT.ST,SE0009888738,Boozt AB,Technology,Sweden
+1761,NCCb.ST,SE0000117970,NCC AB,Industrials,Sweden
+1762,SGSN.S,CH0002497458,SGS SA,Industrials,Switzerland
+1763,COA.L,GB00B4YZN328,Coats Group PLC,Consumer Cyclicals,United Kingdom
+1764,CRTO.O,US2267181046,Criteo SA,Consumer Cyclicals,France
+1765,CLSH.L,GB00BF044593,CLS Holdings PLC,Real Estate,United Kingdom
+1766,KO,US1912161007,Coca-Cola Co,Consumer Non-Cyclicals,USA
+1767,BCPC.O,US0576652004,Balchem Corp,Consumer Non-Cyclicals,USA
+1768,AUG.L,GB00B02H2F76,Augean PLC,Industrials,United Kingdom
+1769,GEF,US3976241071,Greif Inc,Basic Materials,USA
+1770,PJPq.L,US98387E2054,X5 Retail Group NV,Consumer Non-Cyclicals,Russia
+1771,FSLR.O,US3364331070,First Solar Inc,Energy,USA
+1772,MSM,US5535301064,MSC Industrial Direct Co Inc,Industrials,USA
+1773,CURY.L,GB00B4Y7R145,Currys PLC,Consumer Cyclicals,United Kingdom
+1774,IPN.PA,FR0010259150,Ipsen SA,Healthcare,France
+1775,NWSA.O,US65249B1098,News Corp,Consumer Cyclicals,USA
+1776,LUMN.K,US5502411037,Lumen Technologies Inc,Technology,USA
+1777,A3M.MC,ES0109427734,Atresmedia Corporacion de Medios de Comunicacion SA,Consumer Cyclicals,Spain
+1778,MAILRq.L,US5603172082,Mail ru Group Ltd,Consumer Cyclicals,Cyprus
+1779,OEMb.ST,SE0015810577,OEM International AB,Industrials,Sweden
+1780,SRS.MI,IT0000433307,Saras SpA,Energy,Italy
+1781,CCK,US2283681060,Crown Holdings Inc,Basic Materials,USA
+1782,SSE.L,GB0007908733,SSE PLC,Utilities,United Kingdom
+1783,AMSU.L,GB0004536594,Advanced Medical Solutions Group PLC,Healthcare,United Kingdom
+1784,ASCI.MI,IT0004093263,Ascopiave SpA,Utilities,Italy
+1785,APTD.L,GB00BJV2F804,Aptitude Software Group PLC,Technology,United Kingdom
+1786,OERL.S,CH0000816824,OC Oerlikon Corporation AG Pfaeffikon,Industrials,Switzerland
+1787,KR,US5010441013,Kroger Co,Consumer Non-Cyclicals,USA
+1788,OPI.O,US67623C1099,Office Properties Income Trust,Real Estate,USA
+1789,ECNL.MI,IT0005241192,Aquafil SpA,Consumer Cyclicals,Italy
+1790,ZTF.L,GB0009896605,Zotefoams PLC,Basic Materials,United Kingdom
+1791,PNN.L,GB00BNNTLN49,Pennon Group PLC,Utilities,United Kingdom
+1792,ODP.O,US88337F1057,ODP Corp,Consumer Cyclicals,USA
+1793,BRGB.OL,NO0010657505,Borregaard ASA,Basic Materials,Norway
+1794,CF,US1252691001,CF Industries Holdings Inc,Basic Materials,USA
+1795,ALG,US0113111076,Alamo Group Inc,Industrials,USA
+1796,CLNX.MC,ES0105066007,Cellnex Telecom SA,Technology,Spain
+1797,CWST.O,US1474481041,Casella Waste Systems Inc,Industrials,USA
+1798,ENAG.MC,ES0130960018,Enagas SA,Energy,Spain
+1799,LUNE.ST,SE0000825820,Lundin Energy AB,Energy,Sweden
+1800,CMS,US1258961002,CMS Energy Corp,Utilities,USA
+1801,KLED.ST,SE0000549412,Kungsleden AB,Real Estate,Sweden
+1802,SBMO.AS,NL0000360618,SBM Offshore NV,Energy,Netherlands
+1803,GLEG.L,GB00BRKD9Z53,MJ Gleeson PLC,Consumer Cyclicals,United Kingdom
+1804,POR,US7365088472,Portland General Electric Co,Utilities,USA
+1805,DANI.MI,IT0000076502,Danieli & C Officine Meccaniche SpA,Industrials,Italy
+1806,DAN,US2358252052,Dana Inc,Consumer Cyclicals,USA
+1807,MBGn.DE,DE0007100000,Daimler AG,Consumer Cyclicals,Germany
+1808,EMN,US2774321002,Eastman Chemical Co,Basic Materials,USA
+1809,ZOREN.IS,TRAZOREN91L8,Zorlu Enerji Elektrik Uretim AS,Utilities,Turkey
+1810,JSTG.DE,DE000JST4000,JOST Werke AG,Consumer Cyclicals,Germany
+1811,SSABa.ST,SE0000171100,SSAB AB,Basic Materials,Sweden
+1812,ALSO.PA,FR0010220475,Alstom SA,Industrials,France
+1813,IMB.L,GB0004544929,Imperial Brands PLC,Consumer Non-Cyclicals,United Kingdom
+1814,GRG.L,GB00B63QSB39,Greggs PLC,Consumer Cyclicals,United Kingdom
+1815,IBM,US4592001014,International Business Machines Corp,Technology,USA
+1816,LAEP.PA,FR0000032278,Latecoere SA,Industrials,France
+1817,ON.O,US6821891057,ON Semiconductor Corp,Technology,USA
+1818,GSJ.MC,ES0180918015,Grupo Empresarial San Jose SA,Industrials,Spain
+1819,MAS,US5745991068,Masco Corp,Consumer Cyclicals,USA
+1820,ATTP.WA,PLZATRM00012,Grupa Azoty SA,Basic Materials,Poland
+1821,MMTP.PA,FR0000053225,Metropole Television SA,Consumer Cyclicals,France
+1822,SAABb.ST,SE0000112385,Saab AB,Industrials,Sweden
+1823,SBSG.DE,DE000STRA555,Stratec SE,Healthcare,Germany
+1824,VST,US92840M1027,Vistra Corp,Utilities,USA
+1825,FERG.L,JE00BJVNSS43,Ferguson PLC,Consumer Cyclicals,United Kingdom
+1826,AKE.PA,FR0010313833,Arkema SA,Basic Materials,France
+1827,SOPR.PA,FR0000050809,Sopra Steria Group SA,Technology,France
+1828,MMKV.VI,AT0000938204,Mayr Melnhof Karton AG,Basic Materials,Austria
+1829,ASSAb.ST,SE0007100581,Assa Abloy AB,Consumer Cyclicals,Sweden
+1830,BAMN.AS,NL0000337319,Koninklijke BAM Groep NV,Industrials,Netherlands
+1831,ENGIE.PA,FR0010208488,Engie SA,Utilities,France
+1832,SCATC.OL,NO0010715139,Scatec ASA,Utilities,Norway
+1833,BILL.ST,SE0000862997,BillerudKorsnas AB (publ),Basic Materials,Sweden
+1834,EIX,US2810201077,Edison International,Utilities,USA
+1835,CCEP.O,GB00BDCPN049,Coca-Cola Europacific Partners PLC,Consumer Non-Cyclicals,United Kingdom
+1836,NOD.OL,NO0003055501,Nordic Semiconductor ASA,Technology,Norway
+1837,AMS.S,AT0000A18XM4,ams AG,Technology,Austria
+1838,ANF,US0028962076,Abercrombie & Fitch Co,Consumer Cyclicals,USA
+1839,CC,US1638511089,Chemours Co,Basic Materials,USA
+1840,PKI,US7140461093,PerkinElmer Inc,Healthcare,USA
+1841,ECL,US2788651006,Ecolab Inc,Basic Materials,USA
+1842,ECONB.BR,BE0974313455,Econocom Group SE,Technology,Belgium
+1843,GWW,US3848021040,W W Grainger Inc,Industrials,USA
+1844,GENC.PA,FR0000060618,Rallye SA,Consumer Non-Cyclicals,France
+1845,ACE.MI,IT0001207098,Acea SpA,Utilities,Italy
+1846,EXPN.L,GB00B19NLV48,Experian PLC,Industrials,Ireland
+1847,RUBF.PA,FR0013269123,Rubis SCA,Energy,France
+1848,FCT.MI,IT0001415246,Fincantieri SpA,Industrials,Italy
+1849,BT.L,GB0030913577,BT Group PLC,Technology,United Kingdom
+1850,LKQ.O,US5018892084,LKQ Corp,Consumer Cyclicals,USA
+1851,AGFB.BR,BE0003755692,AGFA Gevaert NV,Healthcare,Belgium
+1852,AUDVF.PK,DE0006757008,Audi AG,Consumer Cyclicals,Germany
+1853,MKS.L,GB0031274896,Marks and Spencer Group PLC,Consumer Cyclicals,United Kingdom
+1854,SIAG.VI,AT0000652250,S Immo AG,Real Estate,Austria
+1855,AXTA.K,BMG0750C1082,Axalta Coating Systems Ltd,Basic Materials,USA
+1856,KMB,US4943681035,Kimberly-Clark Corp,Consumer Non-Cyclicals,USA
+1857,DKSH.S,CH0126673539,DKSH Holding AG,Industrials,Switzerland
+1858,ARCH.K,US03940R1077,Arch Resources Inc,Energy,USA
+1859,EXOR.MI,NL0012059018,Exor NV,Consumer Cyclicals,Netherlands
+1860,RHMG.DE,DE0007030009,Rheinmetall AG,Consumer Cyclicals,Germany
+1861,DIOS.ST,SE0001634262,Dios Fastigheter AB,Real Estate,Sweden
+1862,TGT,US87612E1064,Target Corp,Consumer Cyclicals,USA
+1863,NOBI.ST,SE0000949331,Nobia AB,Consumer Cyclicals,Sweden
+1864,AGHOL.IS,TRAYAZIC91Q6,AG Anadolu Grubu Holding AS,Consumer Non-Cyclicals,Turkey
+1865,TRGP.K,US87612G1013,Targa Resources Corp,Energy,USA
+1866,ERM.L,GB0006886666,Euromoney Institutional Investor PLC,Industrials,United Kingdom
+1867,ACCO.K,US00081T1088,ACCO Brands Corp,Industrials,USA
+1868,RIEN.S,CH0003671440,Rieter Holding AG,Industrials,Switzerland
+1869,HPQ,US40434L1052,HP Inc,Technology,USA
+1870,PKN.WA,PLPKN0000018,Polski Koncern Naftowy Orlen SA,Energy,Poland
+1871,ABM,US0009571003,ABM Industries Inc,Industrials,USA
+1872,WBA.O,US9314271084,Walgreens Boots Alliance Inc,Consumer Non-Cyclicals,USA
+1873,XYL,US98419M1009,Xylem Inc,Industrials,USA
+1874,SCHN.PA,FR0000121972,Schneider Electric SE,Industrials,France
+1875,PRGO.K,IE00BGH1M568,Perrigo Company PLC,Healthcare,Ireland
+1876,TRELb.ST,SE0000114837,Trelleborg AB,Industrials,Sweden
+1877,SRG.MI,IT0003153415,Snam SpA,Energy,Italy
+1878,LOG.MC,ES0105027009,Compania de Distribucion Integral Logista Holdings SA,Industrials,Spain
+1879,GEO.MI,IT0003697080,Geox SpA,Consumer Cyclicals,Italy
+1880,NRG,US6293775085,NRG Energy Inc,Utilities,USA
+1881,MYTr.AT,GRS393503008,Mytilineos SA,Utilities,Greece
+1882,TEMN.S,CH0012453913,Temenos AG,Technology,Switzerland
