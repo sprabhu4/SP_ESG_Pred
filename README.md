@@ -6,7 +6,7 @@
 2. data_processing : In this notebook, we add absolute ratios as features, identify outliers, impute null data points using KNN Imputer. Finally, we create two versions of dataset for model training : 
             1. with outliers 
             2. without outliers
-
+3. model_training : In this notebook, we run Random forest regressor for different datasets and picking different set of features
 
 <b> Datasets : </b>
 
